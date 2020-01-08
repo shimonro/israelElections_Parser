@@ -1,0 +1,4502 @@
+[
+    {
+        "Government": 1,
+        "Year": 1949,
+        "PM": [
+            "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
+            "David Ben Gurion",
+            0
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
+                "PartyEng": "Mapai",
+                "PartyID": 78,
+                "Mandates": 46,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d7\u05d6\u05d9\u05ea \u05d3\u05ea\u05d9\u05ea \u05de\u05d0\u05d5\u05d7\u05d3\u05ea",
+                "PartyEng": "Hazit Datit Meuhedet",
+                "PartyID": 53,
+                "Mandates": 10,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d7\u05d6\u05d9\u05ea \u05d3\u05ea\u05d9\u05ea \u05de\u05d0\u05d5\u05d7\u05d3\u05ea",
+                "PartyEng": "Hazit Datit Meuhedet",
+                "PartyID": 53,
+                "Mandates": 6,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e4\u05dc\u05d2\u05d4 \u05d4\u05e4\u05e8\u05d5\u05d2\u05e8\u05e1\u05d9\u05d1\u05d9\u05ea",
+                "PartyEng": "Hamiflaga Hprogresivit",
+                "PartyID": 30,
+                "Mandates": 5,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05e1\u05e4\u05e8\u05d3\u05d9\u05dd \u05d5\u05e2\u05d3\u05d5\u05ea \u05d4\u05de\u05d6\u05e8\u05d7",
+                "PartyEng": "Sfaradim Veedot Hamizrah",
+                "PartyID": 88,
+                "Mandates": 4,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            },
+            {
+                "PartyHeb": "\u05d4\u05e8\u05e9\u05d9\u05de\u05d4 \u05d4\u05d3\u05de\u05d5\u05e7\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc \u05e0\u05e6\u05e8\u05ea",
+                "PartyEng": "Hareshima Hademokratit",
+                "PartyID": 39,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\"\u05dd",
+                "PartyEng": "Mapam",
+                "PartyID": 77,
+                "Mandates": 19,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05ea\u05e0\u05d5\u05e2\u05ea \u05d4\u05d7\u05e8\u05d5\u05ea",
+                "PartyEng": "Tnuat Haheyrut",
+                "PartyID": 112,
+                "Mandates": 14,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05e6\u05d9\u05d5\u05e0\u05d9\u05dd \u05d4\u05db\u05dc\u05dc\u05d9\u05d9\u05dd",
+                "PartyEng": "Hatsiyonim Haklaliyim",
+                "PartyID": 38,
+                "Mandates": 7,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05e7\"\u05d9",
+                "PartyEng": "Maki",
+                "PartyID": 83,
+                "Mandates": 4,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05dc\u05d2\u05ea \u05d4\u05dc\u05d5\u05d7\u05de\u05d9\u05dd",
+                "PartyEng": "Mifleget Halohamim",
+                "PartyID": 80,
+                "Mandates": 1,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d5\u05d9\u05e6\u05d5",
+                "PartyEng": "Vitso",
+                "PartyID": 48,
+                "Mandates": 1,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            },
+            {
+                "PartyHeb": "\u05d4\u05ea\u05d0\u05d7\u05d3\u05d5\u05ea \u05d4\u05ea\u05d9\u05de\u05e0\u05d9\u05dd",
+                "PartyEng": "Hitahdut Hateimanim",
+                "PartyID": 43,
+                "Mandates": 1,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            }
+        ]
+    },
+    {
+        "Government": 2,
+        "Year": 1950,
+        "PM": [
+            "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
+            "David Ben Gurion",
+            0
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
+                "PartyEng": "Mapai",
+                "PartyID": 78,
+                "Mandates": 46,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d7\u05d6\u05d9\u05ea \u05d3\u05ea\u05d9\u05ea \u05de\u05d0\u05d5\u05d7\u05d3\u05ea",
+                "PartyEng": "Hazit Datit Meuhedet",
+                "PartyID": 53,
+                "Mandates": 10,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d7\u05d6\u05d9\u05ea \u05d3\u05ea\u05d9\u05ea \u05de\u05d0\u05d5\u05d7\u05d3\u05ea",
+                "PartyEng": "Hazit Datit Meuhedet",
+                "PartyID": 53,
+                "Mandates": 6,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e4\u05dc\u05d2\u05d4 \u05d4\u05e4\u05e8\u05d5\u05d2\u05e8\u05e1\u05d9\u05d1\u05d9\u05ea",
+                "PartyEng": "Hamiflaga Hprogresivit",
+                "PartyID": 30,
+                "Mandates": 5,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05e1\u05e4\u05e8\u05d3\u05d9\u05dd \u05d5\u05e2\u05d3\u05d5\u05ea \u05d4\u05de\u05d6\u05e8\u05d7",
+                "PartyEng": "Sfaradim Veedot Hamizrah",
+                "PartyID": 88,
+                "Mandates": 4,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            },
+            {
+                "PartyHeb": "\u05d4\u05e8\u05e9\u05d9\u05de\u05d4 \u05d4\u05d3\u05de\u05d5\u05e7\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc \u05e0\u05e6\u05e8\u05ea",
+                "PartyEng": "Hareshima Hademokratit",
+                "PartyID": 39,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\"\u05dd",
+                "PartyEng": "Mapam",
+                "PartyID": 77,
+                "Mandates": 19,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05ea\u05e0\u05d5\u05e2\u05ea \u05d4\u05d7\u05e8\u05d5\u05ea",
+                "PartyEng": "Tnuat Haheyrut",
+                "PartyID": 112,
+                "Mandates": 14,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05e6\u05d9\u05d5\u05e0\u05d9\u05dd \u05d4\u05db\u05dc\u05dc\u05d9\u05d9\u05dd",
+                "PartyEng": "Hatsiyonim Haklaliyim",
+                "PartyID": 38,
+                "Mandates": 7,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05e7\"\u05d9",
+                "PartyEng": "Maki",
+                "PartyID": 83,
+                "Mandates": 4,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05dc\u05d2\u05ea \u05d4\u05dc\u05d5\u05d7\u05de\u05d9\u05dd",
+                "PartyEng": "Mifleget Halohamim",
+                "PartyID": 80,
+                "Mandates": 1,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d5\u05d9\u05e6\u05d5",
+                "PartyEng": "Vitso",
+                "PartyID": 48,
+                "Mandates": 1,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            },
+            {
+                "PartyHeb": "\u05d4\u05ea\u05d0\u05d7\u05d3\u05d5\u05ea \u05d4\u05ea\u05d9\u05de\u05e0\u05d9\u05dd",
+                "PartyEng": "Hitahdut Hateimanim",
+                "PartyID": 43,
+                "Mandates": 1,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            }
+        ]
+    },
+    {
+        "Government": 3,
+        "Year": 1951,
+        "PM": [
+            "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
+            "David Ben Gurion",
+            0
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
+                "PartyEng": "Mapai",
+                "PartyID": 78,
+                "Mandates": 45,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05e4\u05d5\u05e2\u05dc \u05d4\u05de\u05d6\u05e8\u05d7\u05d9",
+                "PartyEng": "Hapoel Hamizrahi",
+                "PartyID": 37,
+                "Mandates": 8,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e8\u05e9\u05d9\u05de\u05d4 \u05d3\u05de\u05d5\u05e7\u05e8\u05d8\u05d9\u05ea \u05dc\u05e2\u05e8\u05d1\u05d9\u05d9 \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Reshima Demokratit laraviyey",
+                "PartyID": 104,
+                "Mandates": 3,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Agudat Yisrael",
+                "PartyID": 0,
+                "Mandates": 3,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e4\u05d5\u05e2\u05dc\u05d9 \u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Poaley Agudat Yisrael",
+                "PartyID": 90,
+                "Mandates": 2,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05d6\u05e8\u05d7\u05d9",
+                "PartyEng": "Hamizrahi",
+                "PartyID": 23,
+                "Mandates": 2,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e7\u05d9\u05d3\u05de\u05d4 \u05d5\u05e2\u05d1\u05d5\u05d3\u05d4",
+                "PartyEng": "Kadima VeAvoda",
+                "PartyID": 94,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d5\u05e4\u05d9\u05ea\u05d5\u05d7",
+                "PartyEng": "Haklaut VePituah",
+                "PartyID": 55,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d4\u05e6\u05d9\u05d5\u05e0\u05d9\u05dd \u05d4\u05db\u05dc\u05dc\u05d9\u05d9\u05dd",
+                "PartyEng": "Hatsiyonim Haklaliyim",
+                "PartyID": 38,
+                "Mandates": 20,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\"\u05dd",
+                "PartyEng": "Mapam",
+                "PartyID": 77,
+                "Mandates": 15,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d7\u05e8\u05d5\u05ea",
+                "PartyEng": "Herut",
+                "PartyID": 56,
+                "Mandates": 8,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05e7\"\u05d9",
+                "PartyEng": "Maki",
+                "PartyID": 83,
+                "Mandates": 5,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e4\u05dc\u05d2\u05d4 \u05d4\u05e4\u05e8\u05d5\u05d2\u05e8\u05e1\u05d9\u05d1\u05d9\u05ea",
+                "PartyEng": "Hamiflaga Hprogresivit",
+                "PartyID": 30,
+                "Mandates": 4,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05e1\u05e4\u05e8\u05d3\u05d9\u05dd \u05d5\u05e2\u05d3\u05d5\u05ea \u05d4\u05de\u05d6\u05e8\u05d7",
+                "PartyEng": "Sfaradim Veedot Hamizrah",
+                "PartyID": 88,
+                "Mandates": 2,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            },
+            {
+                "PartyHeb": "\u05d4\u05ea\u05d0\u05d7\u05d3\u05d5\u05ea \u05d4\u05ea\u05d9\u05de\u05e0\u05d9\u05dd",
+                "PartyEng": "Hitahdut Hateimanim",
+                "PartyID": 43,
+                "Mandates": 1,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            }
+        ]
+    },
+    {
+        "Government": 4,
+        "Year": 1952,
+        "PM": [
+            "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
+            "David Ben Gurion",
+            0
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
+                "PartyEng": "Mapai",
+                "PartyID": 78,
+                "Mandates": 45,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05e4\u05d5\u05e2\u05dc \u05d4\u05de\u05d6\u05e8\u05d7\u05d9",
+                "PartyEng": "Hapoel Hamizrahi",
+                "PartyID": 37,
+                "Mandates": 8,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e8\u05e9\u05d9\u05de\u05d4 \u05d3\u05de\u05d5\u05e7\u05e8\u05d8\u05d9\u05ea \u05dc\u05e2\u05e8\u05d1\u05d9\u05d9 \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Reshima Demokratit laraviyey",
+                "PartyID": 104,
+                "Mandates": 3,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Agudat Yisrael",
+                "PartyID": 0,
+                "Mandates": 3,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e4\u05d5\u05e2\u05dc\u05d9 \u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Poaley Agudat Yisrael",
+                "PartyID": 90,
+                "Mandates": 2,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05d6\u05e8\u05d7\u05d9",
+                "PartyEng": "Hamizrahi",
+                "PartyID": 23,
+                "Mandates": 2,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e7\u05d9\u05d3\u05de\u05d4 \u05d5\u05e2\u05d1\u05d5\u05d3\u05d4",
+                "PartyEng": "Kadima VeAvoda",
+                "PartyID": 94,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d5\u05e4\u05d9\u05ea\u05d5\u05d7",
+                "PartyEng": "Haklaut VePituah",
+                "PartyID": 55,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d4\u05e6\u05d9\u05d5\u05e0\u05d9\u05dd \u05d4\u05db\u05dc\u05dc\u05d9\u05d9\u05dd",
+                "PartyEng": "Hatsiyonim Haklaliyim",
+                "PartyID": 38,
+                "Mandates": 23,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05e1\u05d9\u05e2\u05ea \u05e9\u05de\u05d0\u05dc",
+                "PartyEng": "Siat Smol",
+                "PartyID": 87,
+                "Mandates": 3,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\"\u05dd",
+                "PartyEng": "Mapam",
+                "PartyID": 77,
+                "Mandates": 12,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d7\u05e8\u05d5\u05ea",
+                "PartyEng": "Herut",
+                "PartyID": 56,
+                "Mandates": 8,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05e7\"\u05d9",
+                "PartyEng": "Maki",
+                "PartyID": 83,
+                "Mandates": 5,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e4\u05dc\u05d2\u05d4 \u05d4\u05e4\u05e8\u05d5\u05d2\u05e8\u05e1\u05d9\u05d1\u05d9\u05ea",
+                "PartyEng": "Hamiflaga Hprogresivit",
+                "PartyID": 30,
+                "Mandates": 4,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            }
+        ]
+    },
+    {
+        "Government": 5,
+        "Year": 1954,
+        "PM": [
+            "\u05de\u05e9\u05d4 \u05e9\u05e8\u05ea",
+            "Moshe Sharet",
+            1
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
+                "PartyEng": "Mapai",
+                "PartyID": 78,
+                "Mandates": 47,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05e4\u05d5\u05e2\u05dc \u05d4\u05de\u05d6\u05e8\u05d7\u05d9",
+                "PartyEng": "Hapoel Hamizrahi",
+                "PartyID": 37,
+                "Mandates": 8,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e8\u05e9\u05d9\u05de\u05d4 \u05d3\u05de\u05d5\u05e7\u05e8\u05d8\u05d9\u05ea \u05dc\u05e2\u05e8\u05d1\u05d9\u05d9 \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Reshima Demokratit laraviyey",
+                "PartyID": 104,
+                "Mandates": 3,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Agudat Yisrael",
+                "PartyID": 0,
+                "Mandates": 3,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e4\u05d5\u05e2\u05dc\u05d9 \u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Poaley Agudat Yisrael",
+                "PartyID": 90,
+                "Mandates": 2,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05d6\u05e8\u05d7\u05d9",
+                "PartyEng": "Hamizrahi",
+                "PartyID": 23,
+                "Mandates": 2,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e7\u05d9\u05d3\u05de\u05d4 \u05d5\u05e2\u05d1\u05d5\u05d3\u05d4",
+                "PartyEng": "Kadima VeAvoda",
+                "PartyID": 94,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d5\u05e4\u05d9\u05ea\u05d5\u05d7",
+                "PartyEng": "Haklaut VePituah",
+                "PartyID": 55,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d4\u05e6\u05d9\u05d5\u05e0\u05d9\u05dd \u05d4\u05db\u05dc\u05dc\u05d9\u05d9\u05dd",
+                "PartyEng": "Hatsiyonim Haklaliyim",
+                "PartyID": 38,
+                "Mandates": 23,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05e1\u05d9\u05e2\u05ea \u05e9\u05de\u05d0\u05dc",
+                "PartyEng": "Siat Smol",
+                "PartyID": 87,
+                "Mandates": 3,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\"\u05dd",
+                "PartyEng": "Mapam",
+                "PartyID": 77,
+                "Mandates": 10,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d7\u05e8\u05d5\u05ea",
+                "PartyEng": "Herut",
+                "PartyID": 56,
+                "Mandates": 8,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05e7\"\u05d9",
+                "PartyEng": "Maki",
+                "PartyID": 83,
+                "Mandates": 5,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e4\u05dc\u05d2\u05d4 \u05d4\u05e4\u05e8\u05d5\u05d2\u05e8\u05e1\u05d9\u05d1\u05d9\u05ea",
+                "PartyEng": "Hamiflaga Hprogresivit",
+                "PartyID": 30,
+                "Mandates": 4,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            }
+        ]
+    },
+    {
+        "Government": 6,
+        "Year": 1955,
+        "PM": [
+            "\u05de\u05e9\u05d4 \u05e9\u05e8\u05ea",
+            "Moshe Sharet",
+            1
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
+                "PartyEng": "Mapai",
+                "PartyID": 78,
+                "Mandates": 47,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05e4\u05d5\u05e2\u05dc \u05d4\u05de\u05d6\u05e8\u05d7\u05d9",
+                "PartyEng": "Hapoel Hamizrahi",
+                "PartyID": 37,
+                "Mandates": 8,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e8\u05e9\u05d9\u05de\u05d4 \u05d3\u05de\u05d5\u05e7\u05e8\u05d8\u05d9\u05ea \u05dc\u05e2\u05e8\u05d1\u05d9\u05d9 \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Reshima Demokratit laraviyey",
+                "PartyID": 104,
+                "Mandates": 3,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Agudat Yisrael",
+                "PartyID": 0,
+                "Mandates": 3,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e4\u05d5\u05e2\u05dc\u05d9 \u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Poaley Agudat Yisrael",
+                "PartyID": 90,
+                "Mandates": 2,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05d6\u05e8\u05d7\u05d9",
+                "PartyEng": "Hamizrahi",
+                "PartyID": 23,
+                "Mandates": 2,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e7\u05d9\u05d3\u05de\u05d4 \u05d5\u05e2\u05d1\u05d5\u05d3\u05d4",
+                "PartyEng": "Kadima VeAvoda",
+                "PartyID": 94,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d5\u05e4\u05d9\u05ea\u05d5\u05d7",
+                "PartyEng": "Haklaut VePituah",
+                "PartyID": 55,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d4\u05e6\u05d9\u05d5\u05e0\u05d9\u05dd \u05d4\u05db\u05dc\u05dc\u05d9\u05d9\u05dd",
+                "PartyEng": "Hatsiyonim Haklaliyim",
+                "PartyID": 38,
+                "Mandates": 22,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d0\u05d7\u05d3\u05d5\u05ea \u05d4\u05e2\u05d1\u05d5\u05d3\u05d4-\u05e4\u05d5\u05e2\u05dc\u05d9 \u05e6\u05d9\u05d5\u05df",
+                "PartyEng": "Achdut Haavoda - Poaley",
+                "PartyID": 3,
+                "Mandates": 4,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\"\u05dd",
+                "PartyEng": "Mapam",
+                "PartyID": 77,
+                "Mandates": 7,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d7\u05e8\u05d5\u05ea",
+                "PartyEng": "Herut",
+                "PartyID": 56,
+                "Mandates": 8,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05e7\"\u05d9",
+                "PartyEng": "Maki",
+                "PartyID": 83,
+                "Mandates": 7,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e4\u05dc\u05d2\u05d4 \u05d4\u05e4\u05e8\u05d5\u05d2\u05e8\u05e1\u05d9\u05d1\u05d9\u05ea",
+                "PartyEng": "Hamiflaga Hprogresivit",
+                "PartyID": 30,
+                "Mandates": 4,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05d4\u05ea\u05d0\u05d7\u05d3\u05d5\u05ea \u05d4\u05ea\u05d9\u05de\u05e0\u05d9\u05dd",
+                "PartyEng": "Hitahdut Hateimanim",
+                "PartyID": 43,
+                "Mandates": 1,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            }
+        ]
+    },
+    {
+        "Government": 7,
+        "Year": 1955,
+        "PM": [
+            "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
+            "David Ben Gurion",
+            0
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
+                "PartyEng": "Mapai",
+                "PartyID": 78,
+                "Mandates": 40,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d7\u05d6\u05d9\u05ea \u05d3\u05ea\u05d9\u05ea \u05dc\u05d0\u05d5\u05de\u05d9\u05ea",
+                "PartyEng": "Hazit Datit Leumit",
+                "PartyID": 52,
+                "Mandates": 11,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d0\u05d7\u05d3\u05d5\u05ea \u05d4\u05e2\u05d1\u05d5\u05d3\u05d4-\u05e4\u05d5\u05e2\u05dc\u05d9 \u05e6\u05d9\u05d5\u05df",
+                "PartyEng": "Achdut Haavoda - Poaley",
+                "PartyID": 3,
+                "Mandates": 10,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\"\u05dd",
+                "PartyEng": "Mapam",
+                "PartyID": 77,
+                "Mandates": 9,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e4\u05dc\u05d2\u05d4 \u05d4\u05e4\u05e8\u05d5\u05d2\u05e8\u05e1\u05d9\u05d1\u05d9\u05ea",
+                "PartyEng": "Hamiflaga Hprogresivit",
+                "PartyID": 30,
+                "Mandates": 5,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05e8\u05e9\u05d9\u05de\u05d4 \u05d3\u05de\u05d5\u05e7\u05e8\u05d8\u05d9\u05ea \u05dc\u05e2\u05e8\u05d1\u05d9\u05d9 \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Reshima Demokratit laraviyey",
+                "PartyID": 104,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05e7\u05d9\u05d3\u05de\u05d4 \u05d5\u05e2\u05d1\u05d5\u05d3\u05d4",
+                "PartyEng": "Kadima VeAvoda",
+                "PartyID": 94,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d5\u05e4\u05d9\u05ea\u05d5\u05d7",
+                "PartyEng": "Haklaut VePituah",
+                "PartyID": 55,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d7\u05e8\u05d5\u05ea",
+                "PartyEng": "Herut",
+                "PartyID": 56,
+                "Mandates": 15,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05e6\u05d9\u05d5\u05e0\u05d9\u05dd \u05d4\u05db\u05dc\u05dc\u05d9\u05d9\u05dd",
+                "PartyEng": "Hatsiyonim Haklaliyim",
+                "PartyID": 38,
+                "Mandates": 13,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d7\u05d6\u05d9\u05ea \u05d3\u05ea\u05d9\u05ea \u05ea\u05d5\u05e8\u05ea\u05d9\u05ea",
+                "PartyEng": "Hazit Datit Toratit",
+                "PartyID": 54,
+                "Mandates": 6,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05de\u05e7\"\u05d9",
+                "PartyEng": "Maki",
+                "PartyID": 83,
+                "Mandates": 6,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            }
+        ]
+    },
+    {
+        "Government": 8,
+        "Year": 1958,
+        "PM": [
+            "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
+            "David Ben Gurion",
+            0
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
+                "PartyEng": "Mapai",
+                "PartyID": 78,
+                "Mandates": 40,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Mafdal",
+                "PartyID": 79,
+                "Mandates": 11,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d0\u05d7\u05d3\u05d5\u05ea \u05d4\u05e2\u05d1\u05d5\u05d3\u05d4-\u05e4\u05d5\u05e2\u05dc\u05d9 \u05e6\u05d9\u05d5\u05df",
+                "PartyEng": "Achdut Haavoda - Poaley",
+                "PartyID": 3,
+                "Mandates": 10,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\"\u05dd",
+                "PartyEng": "Mapam",
+                "PartyID": 77,
+                "Mandates": 9,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e4\u05dc\u05d2\u05d4 \u05d4\u05e4\u05e8\u05d5\u05d2\u05e8\u05e1\u05d9\u05d1\u05d9\u05ea",
+                "PartyEng": "Hamiflaga Hprogresivit",
+                "PartyID": 30,
+                "Mandates": 5,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05e8\u05e9\u05d9\u05de\u05d4 \u05d3\u05de\u05d5\u05e7\u05e8\u05d8\u05d9\u05ea \u05dc\u05e2\u05e8\u05d1\u05d9\u05d9 \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Reshima Demokratit laraviyey",
+                "PartyID": 104,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05e7\u05d9\u05d3\u05de\u05d4 \u05d5\u05e2\u05d1\u05d5\u05d3\u05d4",
+                "PartyEng": "Kadima VeAvoda",
+                "PartyID": 94,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d5\u05e4\u05d9\u05ea\u05d5\u05d7",
+                "PartyEng": "Haklaut VePituah",
+                "PartyID": 55,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d7\u05e8\u05d5\u05ea",
+                "PartyEng": "Herut",
+                "PartyID": 56,
+                "Mandates": 15,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05e6\u05d9\u05d5\u05e0\u05d9\u05dd \u05d4\u05db\u05dc\u05dc\u05d9\u05d9\u05dd",
+                "PartyEng": "Hatsiyonim Haklaliyim",
+                "PartyID": 38,
+                "Mandates": 13,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc-\u05e4\u05d5\u05e2\u05dc\u05d9 \u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Agudat Yisrael - Poaley",
+                "PartyID": 1,
+                "Mandates": 6,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05de\u05e7\"\u05d9",
+                "PartyEng": "Maki",
+                "PartyID": 83,
+                "Mandates": 6,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            }
+        ]
+    },
+    {
+        "Government": 9,
+        "Year": 1959,
+        "PM": [
+            "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
+            "David Ben Gurion",
+            0
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
+                "PartyEng": "Mapai",
+                "PartyID": 78,
+                "Mandates": 47,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Mafdal",
+                "PartyID": 79,
+                "Mandates": 12,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\"\u05dd",
+                "PartyEng": "Mapam",
+                "PartyID": 77,
+                "Mandates": 9,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d0\u05d7\u05d3\u05d5\u05ea \u05d4\u05e2\u05d1\u05d5\u05d3\u05d4-\u05e4\u05d5\u05e2\u05dc\u05d9 \u05e6\u05d9\u05d5\u05df",
+                "PartyEng": "Achdut Haavoda - Poaley",
+                "PartyID": 3,
+                "Mandates": 7,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d7\u05d6\u05d9\u05ea \u05d3\u05ea\u05d9\u05ea \u05ea\u05d5\u05e8\u05ea\u05d9\u05ea",
+                "PartyEng": "Hazit Datit Toratit",
+                "PartyID": 54,
+                "Mandates": 6,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e4\u05dc\u05d2\u05d4 \u05d4\u05e4\u05e8\u05d5\u05d2\u05e8\u05e1\u05d9\u05d1\u05d9\u05ea",
+                "PartyEng": "Hamiflaga Hprogresivit",
+                "PartyID": 30,
+                "Mandates": 6,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05e7\u05d9\u05d3\u05de\u05d4 \u05d5\u05e4\u05d9\u05ea\u05d5\u05d7",
+                "PartyEng": "Kidma Vepituah",
+                "PartyID": 95,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05e9\u05d9\u05ea\u05d5\u05e3 \u05d5\u05d0\u05d7\u05d5\u05d5\u05d4",
+                "PartyEng": "Shituf Veahva",
+                "PartyID": 108,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d5\u05e4\u05d9\u05ea\u05d5\u05d7",
+                "PartyEng": "Haklaut VePituah",
+                "PartyID": 55,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d7\u05e8\u05d5\u05ea",
+                "PartyEng": "Herut",
+                "PartyID": 56,
+                "Mandates": 17,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05e6\u05d9\u05d5\u05e0\u05d9\u05dd \u05d4\u05db\u05dc\u05dc\u05d9\u05d9\u05dd",
+                "PartyEng": "Hatsiyonim Haklaliyim",
+                "PartyID": 38,
+                "Mandates": 8,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05e7\"\u05d9",
+                "PartyEng": "Maki",
+                "PartyID": 83,
+                "Mandates": 3,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            }
+        ]
+    },
+    {
+        "Government": 10,
+        "Year": 1961,
+        "PM": [
+            "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
+            "David Ben Gurion",
+            0
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
+                "PartyEng": "Mapai",
+                "PartyID": 78,
+                "Mandates": 42,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Mafdal",
+                "PartyID": 79,
+                "Mandates": 12,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d0\u05d7\u05d3\u05d5\u05ea \u05d4\u05e2\u05d1\u05d5\u05d3\u05d4-\u05e4\u05d5\u05e2\u05dc\u05d9 \u05e6\u05d9\u05d5\u05df",
+                "PartyEng": "Achdut Haavoda - Poaley",
+                "PartyID": 3,
+                "Mandates": 8,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e4\u05d5\u05e2\u05dc\u05d9 \u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Poaley Agudat Yisrael",
+                "PartyID": 90,
+                "Mandates": 2,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e9\u05d9\u05ea\u05d5\u05e3 \u05d5\u05d0\u05d7\u05d5\u05d5\u05d4",
+                "PartyEng": "Shituf Veahva",
+                "PartyID": 108,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05e7\u05d9\u05d3\u05de\u05d4 \u05d5\u05e4\u05d9\u05ea\u05d5\u05d7",
+                "PartyEng": "Kidma Vepituah",
+                "PartyID": 95,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d7\u05e8\u05d5\u05ea",
+                "PartyEng": "Herut",
+                "PartyID": 56,
+                "Mandates": 17,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e4\u05dc\u05d2\u05d4 \u05d4\u05dc\u05d9\u05d1\u05e8\u05dc\u05d9\u05ea",
+                "PartyEng": "Hamiflaga Haliberalit",
+                "PartyID": 29,
+                "Mandates": 17,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\"\u05dd",
+                "PartyEng": "Mapam",
+                "PartyID": 77,
+                "Mandates": 9,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e7\"\u05d9",
+                "PartyEng": "Maki",
+                "PartyID": 83,
+                "Mandates": 5,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Agudat Yisrael",
+                "PartyID": 0,
+                "Mandates": 4,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            }
+        ]
+    },
+    {
+        "Government": 11,
+        "Year": 1963,
+        "PM": [
+            "\u05dc\u05d5\u05d9 \u05d0\u05e9\u05db\u05d5\u05dc",
+            "Levi Eshkol",
+            2
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
+                "PartyEng": "Mapai",
+                "PartyID": 78,
+                "Mandates": 42,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Mafdal",
+                "PartyID": 79,
+                "Mandates": 12,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d0\u05d7\u05d3\u05d5\u05ea \u05d4\u05e2\u05d1\u05d5\u05d3\u05d4-\u05e4\u05d5\u05e2\u05dc\u05d9 \u05e6\u05d9\u05d5\u05df",
+                "PartyEng": "Achdut Haavoda - Poaley",
+                "PartyID": 3,
+                "Mandates": 8,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e4\u05d5\u05e2\u05dc\u05d9 \u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Poaley Agudat Yisrael",
+                "PartyID": 90,
+                "Mandates": 2,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e9\u05d9\u05ea\u05d5\u05e3 \u05d5\u05d0\u05d7\u05d5\u05d5\u05d4",
+                "PartyEng": "Shituf Veahva",
+                "PartyID": 108,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05e7\u05d9\u05d3\u05de\u05d4 \u05d5\u05e4\u05d9\u05ea\u05d5\u05d7",
+                "PartyEng": "Kidma Vepituah",
+                "PartyID": 95,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d7\u05e8\u05d5\u05ea",
+                "PartyEng": "Herut",
+                "PartyID": 56,
+                "Mandates": 17,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e4\u05dc\u05d2\u05d4 \u05d4\u05dc\u05d9\u05d1\u05e8\u05dc\u05d9\u05ea",
+                "PartyEng": "Hamiflaga Haliberalit",
+                "PartyID": 29,
+                "Mandates": 17,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\"\u05dd",
+                "PartyEng": "Mapam",
+                "PartyID": 77,
+                "Mandates": 9,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e7\"\u05d9",
+                "PartyEng": "Maki",
+                "PartyID": 83,
+                "Mandates": 5,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Agudat Yisrael",
+                "PartyID": 0,
+                "Mandates": 4,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            }
+        ]
+    },
+    {
+        "Government": 12,
+        "Year": 1964,
+        "PM": [
+            "\u05dc\u05d5\u05d9 \u05d0\u05e9\u05db\u05d5\u05dc",
+            "Levi Eshkol",
+            2
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
+                "PartyEng": "Mapai",
+                "PartyID": 78,
+                "Mandates": 41,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Mafdal",
+                "PartyID": 79,
+                "Mandates": 12,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d0\u05d7\u05d3\u05d5\u05ea \u05d4\u05e2\u05d1\u05d5\u05d3\u05d4-\u05e4\u05d5\u05e2\u05dc\u05d9 \u05e6\u05d9\u05d5\u05df",
+                "PartyEng": "Achdut Haavoda - Poaley",
+                "PartyID": 3,
+                "Mandates": 8,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e4\u05d5\u05e2\u05dc\u05d9 \u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Poaley Agudat Yisrael",
+                "PartyID": 90,
+                "Mandates": 2,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e9\u05d9\u05ea\u05d5\u05e3 \u05d5\u05d0\u05d7\u05d5\u05d5\u05d4",
+                "PartyEng": "Shituf Veahva",
+                "PartyID": 108,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05e7\u05d9\u05d3\u05de\u05d4 \u05d5\u05e4\u05d9\u05ea\u05d5\u05d7",
+                "PartyEng": "Kidma Vepituah",
+                "PartyID": 95,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d7\u05e8\u05d5\u05ea",
+                "PartyEng": "Herut",
+                "PartyID": 56,
+                "Mandates": 17,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e4\u05dc\u05d2\u05d4 \u05d4\u05dc\u05d9\u05d1\u05e8\u05dc\u05d9\u05ea",
+                "PartyEng": "Hamiflaga Haliberalit",
+                "PartyID": 29,
+                "Mandates": 17,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\"\u05dd",
+                "PartyEng": "Mapam",
+                "PartyID": 77,
+                "Mandates": 9,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e7\"\u05d9",
+                "PartyEng": "Maki",
+                "PartyID": 83,
+                "Mandates": 5,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Agudat Yisrael",
+                "PartyID": 0,
+                "Mandates": 4,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e1\u05d9\u05e2\u05ea \u05d9\u05d7\u05d9\u05d3",
+                "PartyEng": "Siat Yahid",
+                "PartyID": 86,
+                "Mandates": 1,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            }
+        ]
+    },
+    {
+        "Government": 13,
+        "Year": 1966,
+        "PM": [
+            "\u05dc\u05d5\u05d9 \u05d0\u05e9\u05db\u05d5\u05dc",
+            "Levi Eshkol",
+            2
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05de\u05e2\u05e8\u05da",
+                "PartyEng": "Hamaarah",
+                "PartyID": 26,
+                "Mandates": 45,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Mafdal",
+                "PartyID": 79,
+                "Mandates": 11,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\"\u05dd",
+                "PartyEng": "Mapam",
+                "PartyID": 77,
+                "Mandates": 8,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05dc\u05d9\u05d1\u05e8\u05dc\u05d9\u05dd \u05e2\u05e6\u05de\u05d0\u05d9\u05d9\u05dd",
+                "PartyEng": "Liberim Atsmaiyim",
+                "PartyID": 69,
+                "Mandates": 5,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05e4\u05d5\u05e2\u05dc\u05d9 \u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Poaley Agudat Yisrael",
+                "PartyID": 90,
+                "Mandates": 2,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e7\u05d9\u05d3\u05de\u05d4 \u05d5\u05e4\u05d9\u05ea\u05d5\u05d7",
+                "PartyEng": "Kidma Vepituah",
+                "PartyID": 95,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05e9\u05d9\u05ea\u05d5\u05e3 \u05d5\u05d0\u05d7\u05d5\u05d5\u05d4",
+                "PartyEng": "Shituf Veahva",
+                "PartyID": 108,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d2\u05d7\"\u05dc",
+                "PartyEng": "Gahal",
+                "PartyID": 7,
+                "Mandates": 26,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05e8\u05e4\"\u05d9",
+                "PartyEng": "Rafi",
+                "PartyID": 100,
+                "Mandates": 10,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Agudat Yisrael",
+                "PartyID": 0,
+                "Mandates": 4,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e8\u05e7\"\u05d7",
+                "PartyEng": "Rakah",
+                "PartyID": 103,
+                "Mandates": 3,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05e2\u05d5\u05dc\u05dd \u05d4\u05d6\u05d4 - \u05db\u05d7 \u05d7\u05d3\u05e9",
+                "PartyEng": "Haolam Haze - Koah",
+                "PartyID": 36,
+                "Mandates": 1,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e7\"\u05d9",
+                "PartyEng": "Maki",
+                "PartyID": 83,
+                "Mandates": 1,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            }
+        ]
+    },
+    {
+        "Government": 14,
+        "Year": 1969,
+        "PM": [
+            "\u05d2\u05d5\u05dc\u05d3\u05d4 \u05de\u05d0\u05d9\u05e8",
+            "Golda Meir",
+            3
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05de\u05e2\u05e8\u05da",
+                "PartyEng": "Hamaarah",
+                "PartyID": 26,
+                "Mandates": 63,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Mafdal",
+                "PartyID": 79,
+                "Mandates": 11,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e8\u05db\u05d6 \u05d4\u05d7\u05d5\u05e4\u05e9\u05d9",
+                "PartyEng": "Hamerkaz Hahofshi",
+                "PartyID": 32,
+                "Mandates": 4,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05dc\u05d9\u05d1\u05e8\u05dc\u05d9\u05dd \u05e2\u05e6\u05de\u05d0\u05d9\u05d9\u05dd",
+                "PartyEng": "Liberim Atsmaiyim",
+                "PartyID": 69,
+                "Mandates": 4,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05e4\u05d5\u05e2\u05dc\u05d9 \u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Poaley Agudat Yisrael",
+                "PartyID": 90,
+                "Mandates": 2,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e7\u05d9\u05d3\u05de\u05d4 \u05d5\u05e4\u05d9\u05ea\u05d5\u05d7",
+                "PartyEng": "Kidma Vepituah",
+                "PartyID": 95,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05e9\u05d9\u05ea\u05d5\u05e3 \u05d5\u05d0\u05d7\u05d5\u05d5\u05d4",
+                "PartyEng": "Shituf Veahva",
+                "PartyID": 108,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d2\u05d7\"\u05dc",
+                "PartyEng": "Gahal",
+                "PartyID": 7,
+                "Mandates": 22,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d3\u05d5\u05d3 \u05d1\u05df \u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
+                "PartyEng": "David Ben Gurion",
+                "PartyID": 12,
+                "Mandates": 1,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Agudat Yisrael",
+                "PartyID": 0,
+                "Mandates": 4,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e8\u05e7\"\u05d7",
+                "PartyEng": "Rakah",
+                "PartyID": 103,
+                "Mandates": 3,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05e2\u05d5\u05dc\u05dd \u05d4\u05d6\u05d4 - \u05db\u05d7 \u05d7\u05d3\u05e9",
+                "PartyEng": "Haolam Haze - Koah",
+                "PartyID": 36,
+                "Mandates": 1,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e1\u05d9\u05e2\u05d4 \u05d3\u05e8\u05d5\u05d6\u05d9\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9\u05ea",
+                "PartyEng": "Sia Druzit Yisraelit",
+                "PartyID": 85,
+                "Mandates": 1,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            },
+            {
+                "PartyHeb": "\u05d0\u05d7\u05d5\u05d5\u05d4 \u05d9\u05d4\u05d5\u05d3\u05d9\u05ea \u05e2\u05e8\u05d1\u05d9\u05ea",
+                "PartyEng": "Achva Yehudit Aravit",
+                "PartyID": 4,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05de\u05e7\"\u05d9",
+                "PartyEng": "Maki",
+                "PartyID": 83,
+                "Mandates": 1,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            }
+        ]
+    },
+    {
+        "Government": 15,
+        "Year": 1969,
+        "PM": [
+            "\u05d2\u05d5\u05dc\u05d3\u05d4 \u05de\u05d0\u05d9\u05e8",
+            "Golda Meir",
+            3
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05de\u05e2\u05e8\u05da",
+                "PartyEng": "Hamaarah",
+                "PartyID": 26,
+                "Mandates": 56,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d2\u05d7\"\u05dc",
+                "PartyEng": "Gahal",
+                "PartyID": 7,
+                "Mandates": 26,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Mafdal",
+                "PartyID": 79,
+                "Mandates": 12,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05dc\u05d9\u05d1\u05e8\u05dc\u05d9\u05dd \u05e2\u05e6\u05de\u05d0\u05d9\u05d9\u05dd",
+                "PartyEng": "Liberim Atsmaiyim",
+                "PartyID": 69,
+                "Mandates": 4,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05e7\u05d9\u05d3\u05de\u05d4 \u05d5\u05e4\u05d9\u05ea\u05d5\u05d7",
+                "PartyEng": "Kidma Vepituah",
+                "PartyID": 95,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05e9\u05d9\u05ea\u05d5\u05e3 \u05d5\u05d0\u05d7\u05d5\u05d5\u05d4",
+                "PartyEng": "Shituf Veahva",
+                "PartyID": 108,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Agudat Yisrael",
+                "PartyID": 0,
+                "Mandates": 4,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05e8\u05e9\u05d9\u05de\u05d4 \u05d4\u05de\u05de\u05dc\u05db\u05ea\u05d9\u05ea",
+                "PartyEng": "Hareshima Hamamlahtit",
+                "PartyID": 40,
+                "Mandates": 4,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e8\u05e7\"\u05d7",
+                "PartyEng": "Rakah",
+                "PartyID": 103,
+                "Mandates": 3,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e4\u05d5\u05e2\u05dc\u05d9 \u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Poaley Agudat Yisrael",
+                "PartyID": 90,
+                "Mandates": 2,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05e2\u05d5\u05dc\u05dd \u05d4\u05d6\u05d4 - \u05db\u05d7 \u05d7\u05d3\u05e9",
+                "PartyEng": "Haolam Haze - Koah",
+                "PartyID": 36,
+                "Mandates": 2,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e8\u05db\u05d6 \u05d4\u05d7\u05d5\u05e4\u05e9\u05d9",
+                "PartyEng": "Hamerkaz Hahofshi",
+                "PartyID": 32,
+                "Mandates": 2,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05e7\"\u05d9",
+                "PartyEng": "Maki",
+                "PartyID": 83,
+                "Mandates": 1,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            }
+        ]
+    },
+    {
+        "Government": 16,
+        "Year": 1974,
+        "PM": [
+            "\u05d2\u05d5\u05dc\u05d3\u05d4 \u05de\u05d0\u05d9\u05e8",
+            "Golda Meir",
+            3
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05de\u05e2\u05e8\u05da",
+                "PartyEng": "Hamaarah",
+                "PartyID": 26,
+                "Mandates": 51,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Mafdal",
+                "PartyID": 79,
+                "Mandates": 10,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05dc\u05d9\u05d1\u05e8\u05dc\u05d9\u05dd \u05e2\u05e6\u05de\u05d0\u05d9\u05d9\u05dd",
+                "PartyEng": "Liberim Atsmaiyim",
+                "PartyID": 69,
+                "Mandates": 4,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05e7\u05d9\u05d3\u05de\u05d4 \u05d5\u05e4\u05d9\u05ea\u05d5\u05d7",
+                "PartyEng": "Kidma Vepituah",
+                "PartyID": 95,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05e8\u05e9\u05de\u05d4 \u05e2\u05e8\u05d1\u05d9\u05ea \u05dc\u05d1\u05d3\u05d5\u05d0\u05d9\u05dd \u05d5\u05db\u05e4\u05e8\u05d9\u05d9\u05dd",
+                "PartyEng": "Reshima Aravit lebeduim",
+                "PartyID": 105,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 39,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d7\u05d6\u05d9\u05ea \u05d3\u05ea\u05d9\u05ea \u05ea\u05d5\u05e8\u05ea\u05d9\u05ea",
+                "PartyEng": "Hazit Datit Toratit",
+                "PartyID": 54,
+                "Mandates": 5,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e8\u05e7\"\u05d7",
+                "PartyEng": "Rakah",
+                "PartyID": 103,
+                "Mandates": 4,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e8\u05e6",
+                "PartyEng": "Rats",
+                "PartyID": 102,
+                "Mandates": 3,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05d5\u05e7\u05d3",
+                "PartyEng": "Moked",
+                "PartyID": 73,
+                "Mandates": 1,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            }
+        ]
+    },
+    {
+        "Government": 17,
+        "Year": 1974,
+        "PM": [
+            "\u05d9\u05e6\u05d7\u05e7 \u05e8\u05d1\u05d9\u05df",
+            "Yitshak Rabin",
+            4
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05de\u05e2\u05e8\u05da",
+                "PartyEng": "Hamaarah",
+                "PartyID": 26,
+                "Mandates": 54,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Mafdal",
+                "PartyID": 79,
+                "Mandates": 10,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05dc\u05d9\u05d1\u05e8\u05dc\u05d9\u05dd \u05e2\u05e6\u05de\u05d0\u05d9\u05d9\u05dd",
+                "PartyEng": "Liberim Atsmaiyim",
+                "PartyID": 69,
+                "Mandates": 4,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 39,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d7\u05d6\u05d9\u05ea \u05d3\u05ea\u05d9\u05ea \u05ea\u05d5\u05e8\u05ea\u05d9\u05ea",
+                "PartyEng": "Hazit Datit Toratit",
+                "PartyID": 54,
+                "Mandates": 5,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e8\u05e7\"\u05d7",
+                "PartyEng": "Rakah",
+                "PartyID": 103,
+                "Mandates": 4,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e8\u05e6",
+                "PartyEng": "Rats",
+                "PartyID": 102,
+                "Mandates": 3,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05d5\u05e7\u05d3",
+                "PartyEng": "Moked",
+                "PartyID": 73,
+                "Mandates": 1,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            }
+        ]
+    },
+    {
+        "Government": 18,
+        "Year": 1977,
+        "PM": [
+            "\u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df",
+            "Menahem Begin",
+            5
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 43,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d3\"\u05e9",
+                "PartyEng": "Dash",
+                "PartyID": 10,
+                "Mandates": 15,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Mafdal",
+                "PartyID": 79,
+                "Mandates": 12,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Agudat Yisrael",
+                "PartyID": 0,
+                "Mandates": 4,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e9\u05dc\u05d5\u05de\u05e6\u05d9\u05d5\u05df",
+                "PartyEng": "Shlomtsion",
+                "PartyID": 109,
+                "Mandates": 2,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e2\u05e8\u05da",
+                "PartyEng": "Hamaarah",
+                "PartyID": 26,
+                "Mandates": 32,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d7\u05d3\"\u05e9",
+                "PartyEng": "Hadash",
+                "PartyID": 49,
+                "Mandates": 5,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e4\u05dc\u05d0\u05d8\u05d5 \u05e9\u05e8\u05d5\u05df",
+                "PartyEng": "Plato Sharon",
+                "PartyID": 91,
+                "Mandates": 1,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            },
+            {
+                "PartyHeb": "\u05de\u05d7\u05e0\u05d4 \u05e9\u05dc\"\u05d9",
+                "PartyEng": "Mahane Sheli",
+                "PartyID": 76,
+                "Mandates": 2,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e8\u05e2\"\u05dd",
+                "PartyEng": "Raam",
+                "PartyID": 96,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05e4\u05d5\u05e2\u05dc\u05d9 \u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Poaley Agudat Yisrael",
+                "PartyID": 90,
+                "Mandates": 1,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e8\u05e6",
+                "PartyEng": "Rats",
+                "PartyID": 102,
+                "Mandates": 1,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05dc\u05d9\u05d1\u05e8\u05dc\u05d9\u05dd \u05e2\u05e6\u05de\u05d0\u05d9\u05d9\u05dd",
+                "PartyEng": "Liberim Atsmaiyim",
+                "PartyID": 69,
+                "Mandates": 1,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            }
+        ]
+    },
+    {
+        "Government": 19,
+        "Year": 1981,
+        "PM": [
+            "\u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df",
+            "Menahem Begin",
+            5
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 48,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Mafdal",
+                "PartyID": 79,
+                "Mandates": 6,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Agudat Yisrael",
+                "PartyID": 0,
+                "Mandates": 4,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05ea\u05de\"\u05d9",
+                "PartyEng": "Tami",
+                "PartyID": 110,
+                "Mandates": 3,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05ea\u05d7\u05d9\u05d9\u05d4",
+                "PartyEng": "Hathiya",
+                "PartyID": 45,
+                "Mandates": 3,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05ea\u05e0\u05d5\u05e2\u05d4 \u05dc\u05d4\u05ea\u05d7\u05d3\u05e9\u05d5\u05ea \u05de\u05de\u05dc\u05db\u05d9\u05ea",
+                "PartyEng": "Tnua Lhidhadshut",
+                "PartyID": 111,
+                "Mandates": 2,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e2\u05e8\u05da",
+                "PartyEng": "Hamaarah",
+                "PartyID": 26,
+                "Mandates": 47,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d7\u05d3\"\u05e9",
+                "PartyEng": "Hadash",
+                "PartyID": 49,
+                "Mandates": 4,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e9\u05d9\u05e0\u05d5\u05d9",
+                "PartyEng": "Shinuy",
+                "PartyID": 107,
+                "Mandates": 2,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e8\u05e6",
+                "PartyEng": "Rats",
+                "PartyID": 102,
+                "Mandates": 1,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            }
+        ]
+    },
+    {
+        "Government": 20,
+        "Year": 1983,
+        "PM": [
+            "\u05d9\u05e6\u05d7\u05e7 \u05e9\u05de\u05d9\u05e8",
+            "Yitshak Shamir",
+            6
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 46,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Mafdal",
+                "PartyID": 79,
+                "Mandates": 5,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Agudat Yisrael",
+                "PartyID": 0,
+                "Mandates": 4,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05ea\u05de\"\u05d9",
+                "PartyEng": "Tami",
+                "PartyID": 110,
+                "Mandates": 3,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05ea\u05d7\u05d9\u05d9\u05d4",
+                "PartyEng": "Hathiya",
+                "PartyID": 45,
+                "Mandates": 3,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05ea\u05e0\u05d5\u05e2\u05d4 \u05dc\u05d4\u05ea\u05d7\u05d3\u05e9\u05d5\u05ea \u05e6\u05d9\u05d5\u05e0\u05d9\u05ea \u05d7\u05d1\u05e8\u05ea\u05d9\u05ea",
+                "PartyEng": "Hanua Lhithadshut",
+                "PartyID": 47,
+                "Mandates": 1,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e2\u05e8\u05da",
+                "PartyEng": "Hamaarah",
+                "PartyID": 26,
+                "Mandates": 50,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d7\u05d3\"\u05e9",
+                "PartyEng": "Hadash",
+                "PartyID": 49,
+                "Mandates": 4,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e9\u05d9\u05e0\u05d5\u05d9",
+                "PartyEng": "Shinuy",
+                "PartyID": 107,
+                "Mandates": 2,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e8\u05e4\"\u05d9 - \u05d4\u05e8\u05e9\u05d9\u05de\u05d4 \u05d4\u05de\u05de\u05dc\u05db\u05ea\u05d9\u05ea",
+                "PartyEng": "Rafi - Hareshima ",
+                "PartyID": 101,
+                "Mandates": 1,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05de\u05e6\"\u05d3",
+                "PartyEng": "Matsad",
+                "PartyID": 82,
+                "Mandates": 1,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            }
+        ]
+    },
+    {
+        "Government": 21,
+        "Year": 1984,
+        "PM": [
+            "\u05e9\u05de\u05e2\u05d5\u05df \u05e4\u05e8\u05e1",
+            "Shimon Peres",
+            7
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05de\u05e2\u05e8\u05da",
+                "PartyEng": "Hamaarah",
+                "PartyID": 26,
+                "Mandates": 44,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 41,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Hamafdal",
+                "PartyID": 27,
+                "Mandates": 4,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e9\"\u05e1",
+                "PartyEng": "Shas",
+                "PartyID": 106,
+                "Mandates": 4,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e9\u05d9\u05e0\u05d5\u05d9",
+                "PartyEng": "Shinuy",
+                "PartyID": 107,
+                "Mandates": 3,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d9\u05d7\u05d3",
+                "PartyEng": "Yahad",
+                "PartyID": 58,
+                "Mandates": 3,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Agudat Yisrael",
+                "PartyID": 0,
+                "Mandates": 2,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05de\u05d5\u05e8\u05e9\u05d4",
+                "PartyEng": "Morasha",
+                "PartyID": 74,
+                "Mandates": 2,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d0\u05d5\u05de\u05e5",
+                "PartyEng": "Omets",
+                "PartyID": 2,
+                "Mandates": 1,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05ea\u05d7\u05d9\u05d4-\u05e6\u05d5\u05de\u05ea",
+                "PartyEng": "Hathiya - Tsomet",
+                "PartyID": 44,
+                "Mandates": 5,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d7\u05d3\"\u05e9",
+                "PartyEng": "Hadash",
+                "PartyID": 49,
+                "Mandates": 4,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e8\u05e6",
+                "PartyEng": "Rats",
+                "PartyID": 102,
+                "Mandates": 3,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05e8\u05e9\u05d9\u05de\u05d4 \u05d4\u05de\u05ea\u05e7\u05d3\u05de\u05ea \u05dc\u05e9\u05dc\u05d5\u05dd",
+                "PartyEng": "Hreshima Hamitkatemet",
+                "PartyID": 42,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05ea\u05de\"\u05d9",
+                "PartyEng": "Tami",
+                "PartyID": 110,
+                "Mandates": 1,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05db\"\u05da",
+                "PartyEng": "Nah",
+                "PartyID": 66,
+                "Mandates": 1,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            }
+        ]
+    },
+    {
+        "Government": 22,
+        "Year": 1986,
+        "PM": [
+            "\u05d9\u05e6\u05d7\u05e7 \u05e9\u05de\u05d9\u05e8",
+            "Yitshak Shamir",
+            6
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05de\u05e2\u05e8\u05da",
+                "PartyEng": "Hamaarah",
+                "PartyID": 26,
+                "Mandates": 40,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 41,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Hamafdal",
+                "PartyID": 27,
+                "Mandates": 5,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e9\"\u05e1",
+                "PartyEng": "Shas",
+                "PartyID": 106,
+                "Mandates": 4,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e9\u05d9\u05e0\u05d5\u05d9",
+                "PartyEng": "Shinuy",
+                "PartyID": 107,
+                "Mandates": 3,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d9\u05d7\u05d3",
+                "PartyEng": "Yahad",
+                "PartyID": 58,
+                "Mandates": 0,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Agudat Yisrael",
+                "PartyID": 0,
+                "Mandates": 2,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05de\u05d5\u05e8\u05e9\u05d4-\u05e4\u05d0\"\u05d9",
+                "PartyEng": "Morasha - Pai",
+                "PartyID": 75,
+                "Mandates": 1,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d0\u05d5\u05de\u05e5",
+                "PartyEng": "Omets",
+                "PartyID": 2,
+                "Mandates": 1,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05ea\u05d7\u05d9\u05d4-\u05e6\u05d5\u05de\u05ea",
+                "PartyEng": "Hathiya - Tsomet",
+                "PartyID": 44,
+                "Mandates": 5,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d7\u05d3\"\u05e9",
+                "PartyEng": "Hadash",
+                "PartyID": 49,
+                "Mandates": 4,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e8\u05e6",
+                "PartyEng": "Rats",
+                "PartyID": 102,
+                "Mandates": 4,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05e8\u05e9\u05d9\u05de\u05d4 \u05d4\u05de\u05ea\u05e7\u05d3\u05de\u05ea \u05dc\u05e9\u05dc\u05d5\u05dd",
+                "PartyEng": "Hreshima Hamitkatemet",
+                "PartyID": 42,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05ea\u05de\"\u05d9",
+                "PartyEng": "Tami",
+                "PartyID": 110,
+                "Mandates": 1,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\"\u05dd",
+                "PartyEng": "Mapam",
+                "PartyID": 77,
+                "Mandates": 6,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05db\"\u05da",
+                "PartyEng": "Nah",
+                "PartyID": 66,
+                "Mandates": 1,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            }
+        ]
+    },
+    {
+        "Government": 23,
+        "Year": 1988,
+        "PM": [
+            "\u05d9\u05e6\u05d7\u05e7 \u05e9\u05de\u05d9\u05e8",
+            "Yitshak Shamir",
+            6
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 40,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e2\u05e8\u05da",
+                "PartyEng": "Hamaarah",
+                "PartyID": 26,
+                "Mandates": 39,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e9\"\u05e1",
+                "PartyEng": "Shas",
+                "PartyID": 106,
+                "Mandates": 6,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Agudat Yisrael",
+                "PartyID": 0,
+                "Mandates": 5,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Mafdal",
+                "PartyID": 79,
+                "Mandates": 5,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d3\u05d2\u05dc \u05d4\u05ea\u05d5\u05e8\u05d4",
+                "PartyEng": "Degel Hatora",
+                "PartyID": 11,
+                "Mandates": 2,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e8\u05e6",
+                "PartyEng": "Rats",
+                "PartyID": 102,
+                "Mandates": 5,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d7\u05d3\"\u05e9",
+                "PartyEng": "Hadash",
+                "PartyID": 49,
+                "Mandates": 4,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05ea\u05d7\u05d9\u05d9\u05d4",
+                "PartyEng": "Hathiya",
+                "PartyID": 45,
+                "Mandates": 3,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\"\u05dd",
+                "PartyEng": "Mapam",
+                "PartyID": 77,
+                "Mandates": 3,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e6\u05d5\u05de\u05ea",
+                "PartyEng": "Tsomet",
+                "PartyID": 92,
+                "Mandates": 2,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05d5\u05dc\u05d3\u05ea",
+                "PartyEng": "Moledet",
+                "PartyID": 72,
+                "Mandates": 2,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05e9\u05d9\u05e0\u05d5\u05d9",
+                "PartyEng": "Shinuy",
+                "PartyID": 107,
+                "Mandates": 2,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05e8\u05e9\u05d9\u05de\u05d4 \u05d4\u05de\u05ea\u05e7\u05d3\u05de\u05ea \u05dc\u05e9\u05dc\u05d5\u05dd",
+                "PartyEng": "Hreshima Hamitkatemet",
+                "PartyID": 42,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05de\u05d3\"\u05e2",
+                "PartyEng": "Mada",
+                "PartyID": 70,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            }
+        ]
+    },
+    {
+        "Government": 24,
+        "Year": 1990,
+        "PM": [
+            "\u05d9\u05e6\u05d7\u05e7 \u05e9\u05de\u05d9\u05e8",
+            "Yitshak Shamir",
+            6
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 35,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e4\u05dc\u05d2\u05d4 \u05dc\u05e7\u05d9\u05d3\u05d5\u05dd \u05d4\u05e8\u05e2\u05d9\u05d5\u05df \u05d4\u05e6\u05d9\u05d5\u05e0\u05d9",
+                "PartyEng": "Hamiflaga Lekidum",
+                "PartyID": 31,
+                "Mandates": 5,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e2\u05e8\u05da",
+                "PartyEng": "Hamaarah",
+                "PartyID": 26,
+                "Mandates": 39,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e9\"\u05e1",
+                "PartyEng": "Shas",
+                "PartyID": 106,
+                "Mandates": 6,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d0\u05d2\u05d5\u05d3\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Agudat Yisrael",
+                "PartyID": 0,
+                "Mandates": 5,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Mafdal",
+                "PartyID": 79,
+                "Mandates": 5,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d3\u05d2\u05dc \u05d4\u05ea\u05d5\u05e8\u05d4",
+                "PartyEng": "Degel Hatora",
+                "PartyID": 11,
+                "Mandates": 2,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e8\u05e6",
+                "PartyEng": "Rats",
+                "PartyID": 102,
+                "Mandates": 5,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d7\u05d3\"\u05e9",
+                "PartyEng": "Hadash",
+                "PartyID": 49,
+                "Mandates": 4,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05ea\u05d7\u05d9\u05d9\u05d4",
+                "PartyEng": "Hathiya",
+                "PartyID": 45,
+                "Mandates": 3,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\"\u05dd",
+                "PartyEng": "Mapam",
+                "PartyID": 77,
+                "Mandates": 3,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e6\u05d5\u05de\u05ea",
+                "PartyEng": "Tsomet",
+                "PartyID": 92,
+                "Mandates": 2,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05d5\u05dc\u05d3\u05ea",
+                "PartyEng": "Moledet",
+                "PartyID": 72,
+                "Mandates": 2,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05e9\u05d9\u05e0\u05d5\u05d9",
+                "PartyEng": "Shinuy",
+                "PartyID": 107,
+                "Mandates": 2,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05e8\u05e9\u05d9\u05de\u05d4 \u05d4\u05de\u05ea\u05e7\u05d3\u05de\u05ea \u05dc\u05e9\u05dc\u05d5\u05dd",
+                "PartyEng": "Hreshima Hamitkatemet",
+                "PartyID": 42,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05de\u05d3\"\u05e2",
+                "PartyEng": "Mada",
+                "PartyID": 70,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            }
+        ]
+    },
+    {
+        "Government": 25,
+        "Year": 1992,
+        "PM": [
+            "\u05d9\u05e6\u05d7\u05e7 \u05e8\u05d1\u05d9\u05df",
+            "Yitshak Rabin",
+            4
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05e2\u05d1\u05d5\u05d3\u05d4",
+                "PartyEng": "Haavoda",
+                "PartyID": 33,
+                "Mandates": 44,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e8\u05e6",
+                "PartyEng": "Merets",
+                "PartyID": 84,
+                "Mandates": 12,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e9\"\u05e1",
+                "PartyEng": "Shas",
+                "PartyID": 106,
+                "Mandates": 6,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 32,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05e6\u05d5\u05de\u05ea",
+                "PartyEng": "Tsomet",
+                "PartyID": 92,
+                "Mandates": 8,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Mafdal",
+                "PartyID": 79,
+                "Mandates": 6,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d9\u05d4\u05d3\u05d5\u05ea \u05d4\u05ea\u05d5\u05e8\u05d4",
+                "PartyEng": "Yahadut Hatora",
+                "PartyID": 57,
+                "Mandates": 4,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d7\u05d3\"\u05e9",
+                "PartyEng": "Hadash",
+                "PartyID": 49,
+                "Mandates": 3,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05de\u05d5\u05dc\u05d3\u05ea",
+                "PartyEng": "Moledet",
+                "PartyID": 72,
+                "Mandates": 3,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05d3\"\u05e2",
+                "PartyEng": "Mada",
+                "PartyID": 70,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            }
+        ]
+    },
+    {
+        "Government": 26,
+        "Year": 1995,
+        "PM": [
+            "\u05e9\u05de\u05e2\u05d5\u05df \u05e4\u05e8\u05e1",
+            "Shimon Peres",
+            7
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05e2\u05d1\u05d5\u05d3\u05d4",
+                "PartyEng": "Haavoda",
+                "PartyID": 33,
+                "Mandates": 44,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e8\u05e6",
+                "PartyEng": "Merets",
+                "PartyID": 84,
+                "Mandates": 12,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e9\"\u05e1",
+                "PartyEng": "Shas",
+                "PartyID": 106,
+                "Mandates": 6,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 32,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05e6\u05d5\u05de\u05ea",
+                "PartyEng": "Tsomet",
+                "PartyID": 92,
+                "Mandates": 5,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d9\u05e2\u05d5\u05d3",
+                "PartyEng": "Yiud",
+                "PartyID": 61,
+                "Mandates": 3,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Mafdal",
+                "PartyID": 79,
+                "Mandates": 6,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d9\u05d4\u05d3\u05d5\u05ea \u05d4\u05ea\u05d5\u05e8\u05d4",
+                "PartyEng": "Yahadut Hatora",
+                "PartyID": 57,
+                "Mandates": 4,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d7\u05d3\"\u05e9",
+                "PartyEng": "Hadash",
+                "PartyID": 49,
+                "Mandates": 3,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05de\u05d5\u05dc\u05d3\u05ea",
+                "PartyEng": "Moledet",
+                "PartyID": 72,
+                "Mandates": 2,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d9\u05de\u05d9\u05df \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "PartyEng": "Yamin Yisrael",
+                "PartyID": 59,
+                "Mandates": 1,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05de\u05d3\"\u05e2",
+                "PartyEng": "Mada",
+                "PartyID": 70,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            }
+        ]
+    },
+    {
+        "Government": 27,
+        "Year": 1996,
+        "PM": [
+            "\u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5",
+            "Binyamin Netanyahu",
+            11
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3-\u05d2\u05e9\u05e8-\u05e6\u05d5\u05de\u05ea",
+                "PartyEng": "Halikud - Gesher - Tsomet",
+                "PartyID": 21,
+                "Mandates": 32,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05e9\"\u05e1",
+                "PartyEng": "Shas",
+                "PartyID": 106,
+                "Mandates": 10,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Hamafdal",
+                "PartyID": 27,
+                "Mandates": 9,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d1\u05e2\u05dc\u05d9\u05d9\u05d4",
+                "PartyEng": "Yisrael Bealya",
+                "PartyID": 65,
+                "Mandates": 7,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            },
+            {
+                "PartyHeb": "\u05d9\u05d4\u05d3\u05d5\u05ea \u05d4\u05ea\u05d5\u05e8\u05d4",
+                "PartyEng": "Yahadut Hatora",
+                "PartyID": 57,
+                "Mandates": 4,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05d3\u05e8\u05da \u05d4\u05e9\u05dc\u05d9\u05e9\u05d9\u05ea",
+                "PartyEng": "Hadereh Hshlishit",
+                "PartyID": 19,
+                "Mandates": 4,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05d4\u05e2\u05d1\u05d5\u05d3\u05d4",
+                "PartyEng": "Haavoda",
+                "PartyID": 33,
+                "Mandates": 34,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05de\u05e8\u05e6",
+                "PartyEng": "Merets",
+                "PartyID": 84,
+                "Mandates": 9,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d7\u05d3\"\u05e9-\u05d1\u05dc\"\u05d3",
+                "PartyEng": "Hadash - Balad",
+                "PartyID": 50,
+                "Mandates": 5,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05de\u05d3\"\u05e2-\u05e8\u05e2\"\u05dd",
+                "PartyEng": "Mada - Raam",
+                "PartyID": 71,
+                "Mandates": 4,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05de\u05d5\u05dc\u05d3\u05ea",
+                "PartyEng": "Moledet",
+                "PartyID": 72,
+                "Mandates": 2,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            }
+        ]
+    },
+    {
+        "Government": 28,
+        "Year": 1999,
+        "PM": [
+            "\u05d0\u05d4\u05d5\u05d3 \u05d1\u05e8\u05e7",
+            "Ehud Barak",
+            8
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d0\u05d7\u05ea",
+                "PartyEng": "Yisrael Ahat",
+                "PartyID": 63,
+                "Mandates": 26,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e9\"\u05e1",
+                "PartyEng": "Shas",
+                "PartyID": 106,
+                "Mandates": 17,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05de\u05e8\u05e6",
+                "PartyEng": "Merets",
+                "PartyID": 84,
+                "Mandates": 10,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d1\u05e2\u05dc\u05d9\u05d9\u05d4",
+                "PartyEng": "Yisrael Bealya",
+                "PartyID": 65,
+                "Mandates": 6,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05dc\u05d2\u05ea \u05d4\u05de\u05e8\u05db\u05d6",
+                "PartyEng": "Mifleget Hamerkaz",
+                "PartyID": 81,
+                "Mandates": 6,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Mafdal",
+                "PartyID": 79,
+                "Mandates": 5,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d9\u05d4\u05d3\u05d5\u05ea \u05d4\u05ea\u05d5\u05e8\u05d4",
+                "PartyEng": "Yahadut Hatora",
+                "PartyID": 57,
+                "Mandates": 5,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 19,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05e9\u05d9\u05e0\u05d5\u05d9",
+                "PartyEng": "Shinuy",
+                "PartyID": 107,
+                "Mandates": 6,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05e8\u05e2\"\u05dd",
+                "PartyEng": "Raam",
+                "PartyID": 96,
+                "Mandates": 5,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d4\u05d0\u05d9\u05d7\u05d5\u05d3 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9",
+                "PartyEng": "Haihud Haleumi",
+                "PartyID": 13,
+                "Mandates": 4,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d1\u05d9\u05ea\u05e0\u05d5",
+                "PartyEng": "Yisrael Beitenu",
+                "PartyID": 64,
+                "Mandates": 4,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d7\u05d3\"\u05e9",
+                "PartyEng": "Hadash",
+                "PartyID": 49,
+                "Mandates": 3,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05e2\u05dd \u05d0\u05d7\u05d3",
+                "PartyEng": "Am Ehad",
+                "PartyID": 89,
+                "Mandates": 2,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d1\u05dc\"\u05d3",
+                "PartyEng": "Balad",
+                "PartyID": 6,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            }
+        ]
+    },
+    {
+        "Government": 29,
+        "Year": 2001,
+        "PM": [
+            "\u05d0\u05e8\u05d9\u05d0\u05dc \u05e9\u05e8\u05d5\u05df",
+            "Ariel Sharon",
+            9
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d0\u05d7\u05ea",
+                "PartyEng": "Yisrael Ahat",
+                "PartyID": 63,
+                "Mandates": 23,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e9\"\u05e1",
+                "PartyEng": "Shas",
+                "PartyID": 106,
+                "Mandates": 17,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05de\u05e8\u05e6",
+                "PartyEng": "Merets",
+                "PartyID": 84,
+                "Mandates": 10,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d1\u05e2\u05dc\u05d9\u05d9\u05d4",
+                "PartyEng": "Yisrael Bealya",
+                "PartyID": 65,
+                "Mandates": 4,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            },
+            {
+                "PartyHeb": "\u05d4\u05d1\u05d7\u05d9\u05e8\u05d4 \u05d4\u05d3\u05de\u05d5\u05e7\u05e8\u05d8\u05d9\u05ea",
+                "PartyEng": "Habhira Hademokratit",
+                "PartyID": 16,
+                "Mandates": 2,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05dc\u05d2\u05ea \u05d4\u05de\u05e8\u05db\u05d6",
+                "PartyEng": "Mifleget Hamerkaz",
+                "PartyID": 81,
+                "Mandates": 3,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05d4\u05d3\u05e8\u05da \u05d4\u05d7\u05d3\u05e9\u05d4",
+                "PartyEng": "Hadereh Hahadasha",
+                "PartyID": 18,
+                "Mandates": 3,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Mafdal",
+                "PartyID": 79,
+                "Mandates": 5,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d9\u05d4\u05d3\u05d5\u05ea \u05d4\u05ea\u05d5\u05e8\u05d4",
+                "PartyEng": "Yahadut Hatora",
+                "PartyID": 57,
+                "Mandates": 5,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 19,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05e9\u05d9\u05e0\u05d5\u05d9",
+                "PartyEng": "Shinuy",
+                "PartyID": 107,
+                "Mandates": 6,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e4\u05dc\u05d2\u05d4 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05d4\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "PartyEng": "Hamiflaga Haleumit ",
+                "PartyID": 28,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05e8\u05e2\"\u05dd",
+                "PartyEng": "Raam",
+                "PartyID": 96,
+                "Mandates": 3,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d4\u05d0\u05d9\u05d7\u05d5\u05d3 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9-\u05d9\u05e9\u05e8\u05d0\u05dc \u05d1\u05d9\u05ea\u05e0\u05d5",
+                "PartyEng": "Haihud Haleumi - Yisrael",
+                "PartyID": 14,
+                "Mandates": 7,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d2\u05e9\u05e8",
+                "PartyEng": "Gesher",
+                "PartyID": 9,
+                "Mandates": 3,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d7\u05d3\"\u05e9",
+                "PartyEng": "Hadash",
+                "PartyID": 49,
+                "Mandates": 3,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05e2\u05dd \u05d0\u05d7\u05d3",
+                "PartyEng": "Am Ehad",
+                "PartyID": 89,
+                "Mandates": 2,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05ea\u05e2\"\u05dc",
+                "PartyEng": "Taal",
+                "PartyID": 113,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d7\u05e8\u05d5\u05ea",
+                "PartyEng": "Herut",
+                "PartyID": 56,
+                "Mandates": 1,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d1\u05dc\"\u05d3",
+                "PartyEng": "Balad",
+                "PartyID": 6,
+                "Mandates": 1,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            }
+        ]
+    },
+    {
+        "Government": 30,
+        "Year": 2003,
+        "PM": [
+            "\u05d0\u05e8\u05d9\u05d0\u05dc \u05e9\u05e8\u05d5\u05df",
+            "Ariel Sharon",
+            9
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 38,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05e9\u05d9\u05e0\u05d5\u05d9",
+                "PartyEng": "Shinuy",
+                "PartyID": 107,
+                "Mandates": 15,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05d4\u05d0\u05d9\u05d7\u05d5\u05d3 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9",
+                "PartyEng": "Haihud Haleumi",
+                "PartyID": 13,
+                "Mandates": 7,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Hamafdal",
+                "PartyID": 27,
+                "Mandates": 6,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d1\u05e2\u05dc\u05d9\u05d9\u05d4",
+                "PartyEng": "Yisrael Bealya",
+                "PartyID": 65,
+                "Mandates": 2,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            },
+            {
+                "PartyHeb": "\u05d4\u05e2\u05d1\u05d5\u05d3\u05d4-\u05de\u05d9\u05de\u05d3",
+                "PartyEng": "Haavoda - Meimad",
+                "PartyID": 35,
+                "Mandates": 19,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e9\"\u05e1",
+                "PartyEng": "Shas",
+                "PartyID": 106,
+                "Mandates": 11,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05de\u05e8\u05e6",
+                "PartyEng": "Merets",
+                "PartyID": 84,
+                "Mandates": 6,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d9\u05d4\u05d3\u05d5\u05ea \u05d4\u05ea\u05d5\u05e8\u05d4",
+                "PartyEng": "Yahadut Hatora",
+                "PartyID": 57,
+                "Mandates": 5,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d7\u05d3\"\u05e9-\u05ea\u05e2\"\u05dc",
+                "PartyEng": "Hadash - Taal",
+                "PartyID": 51,
+                "Mandates": 3,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05e2\u05dd \u05d0\u05d7\u05d3",
+                "PartyEng": "Am Ehad",
+                "PartyID": 89,
+                "Mandates": 3,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d1\u05dc\"\u05d3",
+                "PartyEng": "Balad",
+                "PartyID": 6,
+                "Mandates": 3,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05e8\u05e2\"\u05dd",
+                "PartyEng": "Raam",
+                "PartyID": 96,
+                "Mandates": 2,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            }
+        ]
+    },
+    {
+        "Government": 31,
+        "Year": 2006,
+        "PM": [
+            "\u05d0\u05d4\u05d5\u05d3 \u05d0\u05d5\u05dc\u05de\u05e8\u05d8",
+            "Ehud Ulmart",
+            10
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05e7\u05d3\u05d9\u05de\u05d4",
+                "PartyEng": "Kadima",
+                "PartyID": 93,
+                "Mandates": 29,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05d4\u05e2\u05d1\u05d5\u05d3\u05d4-\u05de\u05d9\u05de\u05d3",
+                "PartyEng": "Haavoda - Meimad",
+                "PartyID": 35,
+                "Mandates": 19,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e9\"\u05e1",
+                "PartyEng": "Shas",
+                "PartyID": 106,
+                "Mandates": 12,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d1\u05d9\u05ea\u05e0\u05d5",
+                "PartyEng": "Yisrael Beitenu",
+                "PartyID": 64,
+                "Mandates": 11,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            },
+            {
+                "PartyHeb": "\u05d2\u05d9\u05dc",
+                "PartyEng": "Gil",
+                "PartyID": 8,
+                "Mandates": 7,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            },
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 12,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d4\u05d0\u05d9\u05d7\u05d5\u05d3 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9-\u05de\u05e4\u05d3\"\u05dc",
+                "PartyEng": "Haihud Haleumi - Mafdal",
+                "PartyID": 15,
+                "Mandates": 9,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d9\u05d4\u05d3\u05d5\u05ea \u05d4\u05ea\u05d5\u05e8\u05d4",
+                "PartyEng": "Yahadut Hatora",
+                "PartyID": 57,
+                "Mandates": 6,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05de\u05e8\u05e6",
+                "PartyEng": "Merets",
+                "PartyID": 84,
+                "Mandates": 5,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e8\u05e2\"\u05dd-\u05ea\u05e2\"\u05dc",
+                "PartyEng": "Raam - Taal",
+                "PartyID": 97,
+                "Mandates": 4,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d7\u05d3\"\u05e9",
+                "PartyEng": "Hadash",
+                "PartyID": 49,
+                "Mandates": 3,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d1\u05dc\"\u05d3",
+                "PartyEng": "Balad",
+                "PartyID": 6,
+                "Mandates": 3,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            }
+        ]
+    },
+    {
+        "Government": 32,
+        "Year": 2009,
+        "PM": [
+            "\u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5",
+            "Binyamin Netanyahu",
+            11
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 27,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d1\u05d9\u05ea\u05e0\u05d5",
+                "PartyEng": "Yisrael Beitenu",
+                "PartyID": 64,
+                "Mandates": 15,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            },
+            {
+                "PartyHeb": "\u05d4\u05e2\u05d1\u05d5\u05d3\u05d4",
+                "PartyEng": "Haavoda",
+                "PartyID": 33,
+                "Mandates": 13,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e9\"\u05e1",
+                "PartyEng": "Shas",
+                "PartyID": 106,
+                "Mandates": 11,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d9\u05d4\u05d3\u05d5\u05ea \u05d4\u05ea\u05d5\u05e8\u05d4",
+                "PartyEng": "Yahadut Hatora",
+                "PartyID": 57,
+                "Mandates": 5,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05d1\u05d9\u05ea \u05d4\u05d9\u05d4\u05d5\u05d3\u05d9",
+                "PartyEng": "Habait Hayehudi",
+                "PartyID": 17,
+                "Mandates": 3,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e7\u05d3\u05d9\u05de\u05d4",
+                "PartyEng": "Kadima",
+                "PartyID": 93,
+                "Mandates": 28,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05e8\u05e2\"\u05dd-\u05ea\u05e2\"\u05dc",
+                "PartyEng": "Raam - Taal",
+                "PartyID": 97,
+                "Mandates": 4,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d4\u05d0\u05d9\u05d7\u05d5\u05d3 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9",
+                "PartyEng": "Haihud Haleumi",
+                "PartyID": 13,
+                "Mandates": 4,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d7\u05d3\"\u05e9",
+                "PartyEng": "Hadash",
+                "PartyID": 49,
+                "Mandates": 4,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05de\u05e8\u05e6",
+                "PartyEng": "Merets",
+                "PartyID": 84,
+                "Mandates": 3,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d1\u05dc\"\u05d3",
+                "PartyEng": "Balad",
+                "PartyID": 6,
+                "Mandates": 3,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            }
+        ]
+    },
+    {
+        "Government": 33,
+        "Year": 2013,
+        "PM": [
+            "\u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5",
+            "Binyamin Netanyahu",
+            11
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3-\u05d9\u05e9\u05e8\u05d0\u05dc \u05d1\u05d9\u05ea\u05e0\u05d5",
+                "PartyEng": "Halikud - Yisrael Beitenu",
+                "PartyID": 22,
+                "Mandates": 31,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05d9\u05e9 \u05e2\u05ea\u05d9\u05d3",
+                "PartyEng": "Yesh Atid",
+                "PartyID": 62,
+                "Mandates": 19,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05d4\u05d1\u05d9\u05ea \u05d4\u05d9\u05d4\u05d5\u05d3\u05d9",
+                "PartyEng": "Habait Hayehudi",
+                "PartyID": 17,
+                "Mandates": 12,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05ea\u05e0\u05d5\u05e2\u05d4",
+                "PartyEng": "Hatnua",
+                "PartyID": 46,
+                "Mandates": 6,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05d4\u05e2\u05d1\u05d5\u05d3\u05d4",
+                "PartyEng": "Haavoda",
+                "PartyID": 33,
+                "Mandates": 15,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e9\"\u05e1",
+                "PartyEng": "Shas",
+                "PartyID": 106,
+                "Mandates": 11,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d9\u05d4\u05d3\u05d5\u05ea \u05d4\u05ea\u05d5\u05e8\u05d4",
+                "PartyEng": "Yahadut Hatora",
+                "PartyID": 57,
+                "Mandates": 7,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05de\u05e8\u05e6",
+                "PartyEng": "Merets",
+                "PartyID": 84,
+                "Mandates": 6,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e8\u05e2\"\u05dd-\u05ea\u05e2\"\u05dc-\u05de\u05d3\"\u05e2",
+                "PartyEng": "Raam - Taal - Mada",
+                "PartyID": 98,
+                "Mandates": 4,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d7\u05d3\"\u05e9",
+                "PartyEng": "Hadash",
+                "PartyID": 49,
+                "Mandates": 4,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05e7\u05d3\u05d9\u05de\u05d4",
+                "PartyEng": "Kadima",
+                "PartyID": 93,
+                "Mandates": 2,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05d1\u05dc\"\u05d3",
+                "PartyEng": "Balad",
+                "PartyID": 6,
+                "Mandates": 3,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            }
+        ]
+    },
+    {
+        "Government": 34,
+        "Year": 2015,
+        "PM": [
+            "\u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5",
+            "Binyamin Netanyahu",
+            11
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 30,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05db\u05d5\u05dc\u05e0\u05d5",
+                "PartyEng": "Kulanu",
+                "PartyID": 67,
+                "Mandates": 10,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05d4\u05d1\u05d9\u05ea \u05d4\u05d9\u05d4\u05d5\u05d3\u05d9",
+                "PartyEng": "Habait Hayehudi",
+                "PartyID": 17,
+                "Mandates": 8,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05e9\"\u05e1",
+                "PartyEng": "Shas",
+                "PartyID": 106,
+                "Mandates": 7,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d1\u05d9\u05ea\u05e0\u05d5",
+                "PartyEng": "Yisrael Beitenu",
+                "PartyID": 64,
+                "Mandates": 6,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            },
+            {
+                "PartyHeb": "\u05d9\u05d4\u05d3\u05d5\u05ea \u05d4\u05ea\u05d5\u05e8\u05d4",
+                "PartyEng": "Yahadut Hatora",
+                "PartyID": 57,
+                "Mandates": 6,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05d7\u05e0\u05d4 \u05d4\u05e6\u05d9\u05d5\u05e0\u05d9",
+                "PartyEng": "Hamahane Hatsioni",
+                "PartyID": 25,
+                "Mandates": 24,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05e8\u05e9\u05d9\u05de\u05d4 \u05d4\u05de\u05e9\u05d5\u05ea\u05e4\u05ea",
+                "PartyEng": "Hareshima Hameshutefet",
+                "PartyID": 41,
+                "Mandates": 13,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d9\u05e9 \u05e2\u05ea\u05d9\u05d3",
+                "PartyEng": "Yesh Atid",
+                "PartyID": 62,
+                "Mandates": 11,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05de\u05e8\u05e6",
+                "PartyEng": "Merets",
+                "PartyID": 84,
+                "Mandates": 5,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            }
+        ]
+    },
+    {
+        "Government": 35,
+        "Year": 2019,
+        "PM": [
+            "\u05d0\u05d9\u05df",
+            "None",
+            12
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 35,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05db\u05d7\u05d5\u05dc \u05dc\u05d1\u05df",
+                "PartyEng": "Kahol Lavan",
+                "PartyID": 68,
+                "Mandates": 35,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05e9\"\u05e1",
+                "PartyEng": "Shas",
+                "PartyID": 106,
+                "Mandates": 8,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d9\u05d4\u05d3\u05d5\u05ea \u05d4\u05ea\u05d5\u05e8\u05d4",
+                "PartyEng": "Yahadut Hatora",
+                "PartyID": 57,
+                "Mandates": 8,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05e2\u05d1\u05d5\u05d3\u05d4",
+                "PartyEng": "Haavoda",
+                "PartyID": 33,
+                "Mandates": 6,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d7\u05d3\"\u05e9-\u05ea\u05e2\"\u05dc",
+                "PartyEng": "Hadash - Taal",
+                "PartyID": 51,
+                "Mandates": 6,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d1\u05d9\u05ea\u05e0\u05d5",
+                "PartyEng": "Yisrael Beitenu",
+                "PartyID": 64,
+                "Mandates": 5,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            },
+            {
+                "PartyHeb": "\u05d0\u05d9\u05d7\u05d5\u05d3 \u05de\u05e4\u05dc\u05d2\u05d5\u05ea \u05d4\u05d9\u05de\u05d9\u05df",
+                "PartyEng": "Ichud Miflagot Hayamin",
+                "PartyID": 5,
+                "Mandates": 5,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05db\u05d5\u05dc\u05e0\u05d5",
+                "PartyEng": "Kulanu",
+                "PartyID": 67,
+                "Mandates": 4,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05de\u05e8\u05e6",
+                "PartyEng": "Merets",
+                "PartyID": 84,
+                "Mandates": 4,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05e8\u05e2\"\u05dd \u05d1\u05dc\"\u05d3",
+                "PartyEng": "Raam - Balad",
+                "PartyID": 99,
+                "Mandates": 4,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            }
+        ]
+    },
+    {
+        "Government": 36,
+        "Year": 2019,
+        "PM": [
+            "\u05d0\u05d9\u05df",
+            "None",
+            12
+        ],
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 32,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05db\u05d7\u05d5\u05dc \u05dc\u05d1\u05df",
+                "PartyEng": "Kahol Lavan",
+                "PartyID": 68,
+                "Mandates": 33,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05e9\"\u05e1",
+                "PartyEng": "Shas",
+                "PartyID": 106,
+                "Mandates": 9,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d9\u05d4\u05d3\u05d5\u05ea \u05d4\u05ea\u05d5\u05e8\u05d4",
+                "PartyEng": "Yahadut Hatora",
+                "PartyID": 57,
+                "Mandates": 7,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05e2\u05d1\u05d5\u05d3\u05d4-\u05d2\u05e9\u05e8",
+                "PartyEng": "Haavoda - Gesher",
+                "PartyID": 34,
+                "Mandates": 6,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d4\u05e8\u05e9\u05d9\u05de\u05d4 \u05d4\u05de\u05e9\u05d5\u05ea\u05e4\u05ea",
+                "PartyEng": "Hareshima Hameshutefet",
+                "PartyID": 41,
+                "Mandates": 13,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d1\u05d9\u05ea\u05e0\u05d5",
+                "PartyEng": "Yisrael Beitenu",
+                "PartyID": 64,
+                "Mandates": 8,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            },
+            {
+                "PartyHeb": "\u05d9\u05de\u05d9\u05e0\u05d4",
+                "PartyEng": "Yamina",
+                "PartyID": 60,
+                "Mandates": 7,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05de\u05d7\u05e0\u05d4 \u05d4\u05d3\u05de\u05d5\u05e7\u05e8\u05d8\u05d9",
+                "PartyEng": "Hamahane Hademokrati",
+                "PartyID": 24,
+                "Mandates": 5,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            }
+        ]
+    }
+]
