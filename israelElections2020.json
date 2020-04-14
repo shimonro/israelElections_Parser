@@ -1,12 +1,13 @@
 [
     {
+        "Parlament": 1,
         "Government": 1,
         "Year": 1949,
-        "PM": [
-            "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
-            "David Ben Gurion",
-            0
-        ],
+        "PM": {
+            "PMHeb": "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
+            "PMEng": "David Ben Gurion",
+            "PMID": 0
+        },
         "Results": [
             {
                 "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
@@ -21,16 +22,7 @@
                 "PartyHeb": "\u05d7\u05d6\u05d9\u05ea \u05d3\u05ea\u05d9\u05ea \u05de\u05d0\u05d5\u05d7\u05d3\u05ea",
                 "PartyEng": "Hazit Datit Meuhedet",
                 "PartyID": 53,
-                "Mandates": 10,
-                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
-                "BlockEng": "Religious",
-                "BlockID": 1
-            },
-            {
-                "PartyHeb": "\u05d7\u05d6\u05d9\u05ea \u05d3\u05ea\u05d9\u05ea \u05de\u05d0\u05d5\u05d7\u05d3\u05ea",
-                "PartyEng": "Hazit Datit Meuhedet",
-                "PartyID": 53,
-                "Mandates": 6,
+                "Mandates": 16,
                 "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
                 "BlockEng": "Religious",
                 "BlockID": 1
@@ -128,13 +120,14 @@
         ]
     },
     {
+        "Parlament": 1,
         "Government": 2,
         "Year": 1950,
-        "PM": [
-            "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
-            "David Ben Gurion",
-            0
-        ],
+        "PM": {
+            "PMHeb": "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
+            "PMEng": "David Ben Gurion",
+            "PMID": 0
+        },
         "Results": [
             {
                 "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
@@ -149,16 +142,7 @@
                 "PartyHeb": "\u05d7\u05d6\u05d9\u05ea \u05d3\u05ea\u05d9\u05ea \u05de\u05d0\u05d5\u05d7\u05d3\u05ea",
                 "PartyEng": "Hazit Datit Meuhedet",
                 "PartyID": 53,
-                "Mandates": 10,
-                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
-                "BlockEng": "Religious",
-                "BlockID": 1
-            },
-            {
-                "PartyHeb": "\u05d7\u05d6\u05d9\u05ea \u05d3\u05ea\u05d9\u05ea \u05de\u05d0\u05d5\u05d7\u05d3\u05ea",
-                "PartyEng": "Hazit Datit Meuhedet",
-                "PartyID": 53,
-                "Mandates": 6,
+                "Mandates": 16,
                 "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
                 "BlockEng": "Religious",
                 "BlockID": 1
@@ -256,13 +240,14 @@
         ]
     },
     {
+        "Parlament": 2,
         "Government": 3,
         "Year": 1951,
-        "PM": [
-            "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
-            "David Ben Gurion",
-            0
-        ],
+        "PM": {
+            "PMHeb": "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
+            "PMEng": "David Ben Gurion",
+            "PMID": 0
+        },
         "Results": [
             {
                 "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
@@ -402,13 +387,14 @@
         ]
     },
     {
+        "Parlament": 2,
         "Government": 4,
         "Year": 1952,
-        "PM": [
-            "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
-            "David Ben Gurion",
-            0
-        ],
+        "PM": {
+            "PMHeb": "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
+            "PMEng": "David Ben Gurion",
+            "PMID": 0
+        },
         "Results": [
             {
                 "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
@@ -539,13 +525,14 @@
         ]
     },
     {
+        "Parlament": 2,
         "Government": 5,
         "Year": 1954,
-        "PM": [
-            "\u05de\u05e9\u05d4 \u05e9\u05e8\u05ea",
-            "Moshe Sharet",
-            1
-        ],
+        "PM": {
+            "PMHeb": "\u05de\u05e9\u05d4 \u05e9\u05e8\u05ea",
+            "PMEng": "Moshe Sharet",
+            "PMID": 1
+        },
         "Results": [
             {
                 "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
@@ -676,13 +663,14 @@
         ]
     },
     {
+        "Parlament": 2,
         "Government": 6,
         "Year": 1955,
-        "PM": [
-            "\u05de\u05e9\u05d4 \u05e9\u05e8\u05ea",
-            "Moshe Sharet",
-            1
-        ],
+        "PM": {
+            "PMHeb": "\u05de\u05e9\u05d4 \u05e9\u05e8\u05ea",
+            "PMEng": "Moshe Sharet",
+            "PMID": 1
+        },
         "Results": [
             {
                 "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
@@ -822,13 +810,14 @@
         ]
     },
     {
+        "Parlament": 3,
         "Government": 7,
         "Year": 1955,
-        "PM": [
-            "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
-            "David Ben Gurion",
-            0
-        ],
+        "PM": {
+            "PMHeb": "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
+            "PMEng": "David Ben Gurion",
+            "PMID": 0
+        },
         "Results": [
             {
                 "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
@@ -941,13 +930,14 @@
         ]
     },
     {
+        "Parlament": 3,
         "Government": 8,
         "Year": 1958,
-        "PM": [
-            "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
-            "David Ben Gurion",
-            0
-        ],
+        "PM": {
+            "PMHeb": "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
+            "PMEng": "David Ben Gurion",
+            "PMID": 0
+        },
         "Results": [
             {
                 "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
@@ -1060,13 +1050,14 @@
         ]
     },
     {
+        "Parlament": 4,
         "Government": 9,
         "Year": 1959,
-        "PM": [
-            "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
-            "David Ben Gurion",
-            0
-        ],
+        "PM": {
+            "PMHeb": "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
+            "PMEng": "David Ben Gurion",
+            "PMID": 0
+        },
         "Results": [
             {
                 "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
@@ -1179,13 +1170,14 @@
         ]
     },
     {
+        "Parlament": 5,
         "Government": 10,
         "Year": 1961,
-        "PM": [
-            "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
-            "David Ben Gurion",
-            0
-        ],
+        "PM": {
+            "PMHeb": "\u05d3\u05d5\u05d3 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
+            "PMEng": "David Ben Gurion",
+            "PMID": 0
+        },
         "Results": [
             {
                 "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
@@ -1289,13 +1281,14 @@
         ]
     },
     {
+        "Parlament": 5,
         "Government": 11,
         "Year": 1963,
-        "PM": [
-            "\u05dc\u05d5\u05d9 \u05d0\u05e9\u05db\u05d5\u05dc",
-            "Levi Eshkol",
-            2
-        ],
+        "PM": {
+            "PMHeb": "\u05dc\u05d5\u05d9 \u05d0\u05e9\u05db\u05d5\u05dc",
+            "PMEng": "Levi Eshkol",
+            "PMID": 2
+        },
         "Results": [
             {
                 "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
@@ -1399,13 +1392,14 @@
         ]
     },
     {
+        "Parlament": 5,
         "Government": 12,
         "Year": 1964,
-        "PM": [
-            "\u05dc\u05d5\u05d9 \u05d0\u05e9\u05db\u05d5\u05dc",
-            "Levi Eshkol",
-            2
-        ],
+        "PM": {
+            "PMHeb": "\u05dc\u05d5\u05d9 \u05d0\u05e9\u05db\u05d5\u05dc",
+            "PMEng": "Levi Eshkol",
+            "PMID": 2
+        },
         "Results": [
             {
                 "PartyHeb": "\u05de\u05e4\u05d0\"\u05d9",
@@ -1518,13 +1512,14 @@
         ]
     },
     {
+        "Parlament": 6,
         "Government": 13,
         "Year": 1966,
-        "PM": [
-            "\u05dc\u05d5\u05d9 \u05d0\u05e9\u05db\u05d5\u05dc",
-            "Levi Eshkol",
-            2
-        ],
+        "PM": {
+            "PMHeb": "\u05dc\u05d5\u05d9 \u05d0\u05e9\u05db\u05d5\u05dc",
+            "PMEng": "Levi Eshkol",
+            "PMID": 2
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05de\u05e2\u05e8\u05da",
@@ -1646,13 +1641,14 @@
         ]
     },
     {
+        "Parlament": 6,
         "Government": 14,
         "Year": 1969,
-        "PM": [
-            "\u05d2\u05d5\u05dc\u05d3\u05d4 \u05de\u05d0\u05d9\u05e8",
-            "Golda Meir",
-            3
-        ],
+        "PM": {
+            "PMHeb": "\u05d2\u05d5\u05dc\u05d3\u05d4 \u05de\u05d0\u05d9\u05e8",
+            "PMEng": "Golda Meir",
+            "PMID": 3
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05de\u05e2\u05e8\u05da",
@@ -1792,13 +1788,14 @@
         ]
     },
     {
+        "Parlament": 7,
         "Government": 15,
         "Year": 1969,
-        "PM": [
-            "\u05d2\u05d5\u05dc\u05d3\u05d4 \u05de\u05d0\u05d9\u05e8",
-            "Golda Meir",
-            3
-        ],
+        "PM": {
+            "PMHeb": "\u05d2\u05d5\u05dc\u05d3\u05d4 \u05de\u05d0\u05d9\u05e8",
+            "PMEng": "Golda Meir",
+            "PMID": 3
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05de\u05e2\u05e8\u05da",
@@ -1920,13 +1917,14 @@
         ]
     },
     {
+        "Parlament": 8,
         "Government": 16,
         "Year": 1974,
-        "PM": [
-            "\u05d2\u05d5\u05dc\u05d3\u05d4 \u05de\u05d0\u05d9\u05e8",
-            "Golda Meir",
-            3
-        ],
+        "PM": {
+            "PMHeb": "\u05d2\u05d5\u05dc\u05d3\u05d4 \u05de\u05d0\u05d9\u05e8",
+            "PMEng": "Golda Meir",
+            "PMID": 3
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05de\u05e2\u05e8\u05da",
@@ -2021,13 +2019,14 @@
         ]
     },
     {
+        "Parlament": 8,
         "Government": 17,
         "Year": 1974,
-        "PM": [
-            "\u05d9\u05e6\u05d7\u05e7 \u05e8\u05d1\u05d9\u05df",
-            "Yitshak Rabin",
-            4
-        ],
+        "PM": {
+            "PMHeb": "\u05d9\u05e6\u05d7\u05e7 \u05e8\u05d1\u05d9\u05df",
+            "PMEng": "Yitshak Rabin",
+            "PMID": 4
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05de\u05e2\u05e8\u05da",
@@ -2104,13 +2103,14 @@
         ]
     },
     {
+        "Parlament": 9,
         "Government": 18,
         "Year": 1977,
-        "PM": [
-            "\u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df",
-            "Menahem Begin",
-            5
-        ],
+        "PM": {
+            "PMHeb": "\u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df",
+            "PMEng": "Menahem Begin",
+            "PMID": 5
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
@@ -2232,13 +2232,14 @@
         ]
     },
     {
+        "Parlament": 10,
         "Government": 19,
         "Year": 1981,
-        "PM": [
-            "\u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df",
-            "Menahem Begin",
-            5
-        ],
+        "PM": {
+            "PMHeb": "\u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df",
+            "PMEng": "Menahem Begin",
+            "PMID": 5
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
@@ -2333,13 +2334,14 @@
         ]
     },
     {
+        "Parlament": 10,
         "Government": 20,
         "Year": 1983,
-        "PM": [
-            "\u05d9\u05e6\u05d7\u05e7 \u05e9\u05de\u05d9\u05e8",
-            "Yitshak Shamir",
-            6
-        ],
+        "PM": {
+            "PMHeb": "\u05d9\u05e6\u05d7\u05e7 \u05e9\u05de\u05d9\u05e8",
+            "PMEng": "Yitshak Shamir",
+            "PMID": 6
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
@@ -2443,13 +2445,14 @@
         ]
     },
     {
+        "Parlament": 11,
         "Government": 21,
         "Year": 1984,
-        "PM": [
-            "\u05e9\u05de\u05e2\u05d5\u05df \u05e4\u05e8\u05e1",
-            "Shimon Peres",
-            7
-        ],
+        "PM": {
+            "PMHeb": "\u05e9\u05de\u05e2\u05d5\u05df \u05e4\u05e8\u05e1",
+            "PMEng": "Shimon Peres",
+            "PMID": 7
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05de\u05e2\u05e8\u05da",
@@ -2589,13 +2592,14 @@
         ]
     },
     {
+        "Parlament": 11,
         "Government": 22,
         "Year": 1986,
-        "PM": [
-            "\u05d9\u05e6\u05d7\u05e7 \u05e9\u05de\u05d9\u05e8",
-            "Yitshak Shamir",
-            6
-        ],
+        "PM": {
+            "PMHeb": "\u05d9\u05e6\u05d7\u05e7 \u05e9\u05de\u05d9\u05e8",
+            "PMEng": "Yitshak Shamir",
+            "PMID": 6
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05de\u05e2\u05e8\u05da",
@@ -2744,13 +2748,14 @@
         ]
     },
     {
+        "Parlament": 12,
         "Government": 23,
         "Year": 1988,
-        "PM": [
-            "\u05d9\u05e6\u05d7\u05e7 \u05e9\u05de\u05d9\u05e8",
-            "Yitshak Shamir",
-            6
-        ],
+        "PM": {
+            "PMHeb": "\u05d9\u05e6\u05d7\u05e7 \u05e9\u05de\u05d9\u05e8",
+            "PMEng": "Yitshak Shamir",
+            "PMID": 6
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
@@ -2890,13 +2895,14 @@
         ]
     },
     {
+        "Parlament": 12,
         "Government": 24,
         "Year": 1990,
-        "PM": [
-            "\u05d9\u05e6\u05d7\u05e7 \u05e9\u05de\u05d9\u05e8",
-            "Yitshak Shamir",
-            6
-        ],
+        "PM": {
+            "PMHeb": "\u05d9\u05e6\u05d7\u05e7 \u05e9\u05de\u05d9\u05e8",
+            "PMEng": "Yitshak Shamir",
+            "PMID": 6
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
@@ -3045,13 +3051,14 @@
         ]
     },
     {
+        "Parlament": 13,
         "Government": 25,
         "Year": 1992,
-        "PM": [
-            "\u05d9\u05e6\u05d7\u05e7 \u05e8\u05d1\u05d9\u05df",
-            "Yitshak Rabin",
-            4
-        ],
+        "PM": {
+            "PMHeb": "\u05d9\u05e6\u05d7\u05e7 \u05e8\u05d1\u05d9\u05df",
+            "PMEng": "Yitshak Rabin",
+            "PMID": 4
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05e2\u05d1\u05d5\u05d3\u05d4",
@@ -3146,13 +3153,14 @@
         ]
     },
     {
+        "Parlament": 13,
         "Government": 26,
         "Year": 1995,
-        "PM": [
-            "\u05e9\u05de\u05e2\u05d5\u05df \u05e4\u05e8\u05e1",
-            "Shimon Peres",
-            7
-        ],
+        "PM": {
+            "PMHeb": "\u05e9\u05de\u05e2\u05d5\u05df \u05e4\u05e8\u05e1",
+            "PMEng": "Shimon Peres",
+            "PMID": 7
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05e2\u05d1\u05d5\u05d3\u05d4",
@@ -3265,13 +3273,14 @@
         ]
     },
     {
+        "Parlament": 14,
         "Government": 27,
         "Year": 1996,
-        "PM": [
-            "\u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5",
-            "Binyamin Netanyahu",
-            11
-        ],
+        "PM": {
+            "PMHeb": "\u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5",
+            "PMEng": "Binyamin Netanyahu",
+            "PMID": 8
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3-\u05d2\u05e9\u05e8-\u05e6\u05d5\u05de\u05ea",
@@ -3375,13 +3384,14 @@
         ]
     },
     {
+        "Parlament": 15,
         "Government": 28,
         "Year": 1999,
-        "PM": [
-            "\u05d0\u05d4\u05d5\u05d3 \u05d1\u05e8\u05e7",
-            "Ehud Barak",
-            8
-        ],
+        "PM": {
+            "PMHeb": "\u05d0\u05d4\u05d5\u05d3 \u05d1\u05e8\u05e7",
+            "PMEng": "Ehud Barak",
+            "PMID": 9
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d0\u05d7\u05ea",
@@ -3521,13 +3531,14 @@
         ]
     },
     {
+        "Parlament": 15,
         "Government": 29,
         "Year": 2001,
-        "PM": [
-            "\u05d0\u05e8\u05d9\u05d0\u05dc \u05e9\u05e8\u05d5\u05df",
-            "Ariel Sharon",
-            9
-        ],
+        "PM": {
+            "PMHeb": "\u05d0\u05e8\u05d9\u05d0\u05dc \u05e9\u05e8\u05d5\u05df",
+            "PMEng": "Ariel Sharon",
+            "PMID": 10
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d0\u05d7\u05ea",
@@ -3712,13 +3723,14 @@
         ]
     },
     {
+        "Parlament": 16,
         "Government": 30,
         "Year": 2003,
-        "PM": [
-            "\u05d0\u05e8\u05d9\u05d0\u05dc \u05e9\u05e8\u05d5\u05df",
-            "Ariel Sharon",
-            9
-        ],
+        "PM": {
+            "PMHeb": "\u05d0\u05e8\u05d9\u05d0\u05dc \u05e9\u05e8\u05d5\u05df",
+            "PMEng": "Ariel Sharon",
+            "PMID": 10
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
@@ -3840,13 +3852,14 @@
         ]
     },
     {
+        "Parlament": 17,
         "Government": 31,
         "Year": 2006,
-        "PM": [
-            "\u05d0\u05d4\u05d5\u05d3 \u05d0\u05d5\u05dc\u05de\u05e8\u05d8",
-            "Ehud Ulmart",
-            10
-        ],
+        "PM": {
+            "PMHeb": "\u05d0\u05d4\u05d5\u05d3 \u05d0\u05d5\u05dc\u05de\u05e8\u05d8",
+            "PMEng": "Ehud Ulmart",
+            "PMID": 11
+        },
         "Results": [
             {
                 "PartyHeb": "\u05e7\u05d3\u05d9\u05de\u05d4",
@@ -3959,13 +3972,14 @@
         ]
     },
     {
+        "Parlament": 18,
         "Government": 32,
         "Year": 2009,
-        "PM": [
-            "\u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5",
-            "Binyamin Netanyahu",
-            11
-        ],
+        "PM": {
+            "PMHeb": "\u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5",
+            "PMEng": "Binyamin Netanyahu",
+            "PMID": 8
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
@@ -4078,13 +4092,14 @@
         ]
     },
     {
+        "Parlament": 19,
         "Government": 33,
         "Year": 2013,
-        "PM": [
-            "\u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5",
-            "Binyamin Netanyahu",
-            11
-        ],
+        "PM": {
+            "PMHeb": "\u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5",
+            "PMEng": "Binyamin Netanyahu",
+            "PMID": 8
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3-\u05d9\u05e9\u05e8\u05d0\u05dc \u05d1\u05d9\u05ea\u05e0\u05d5",
@@ -4197,13 +4212,14 @@
         ]
     },
     {
+        "Parlament": 20,
         "Government": 34,
         "Year": 2015,
-        "PM": [
-            "\u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5",
-            "Binyamin Netanyahu",
-            11
-        ],
+        "PM": {
+            "PMHeb": "\u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5",
+            "PMEng": "Binyamin Netanyahu",
+            "PMID": 8
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
@@ -4298,13 +4314,14 @@
         ]
     },
     {
+        "Parlament": 21,
         "Government": 35,
         "Year": 2019,
-        "PM": [
-            "\u05d0\u05d9\u05df",
-            "None",
-            12
-        ],
+        "PM": {
+            "PMHeb": "\u05d0\u05d9\u05df",
+            "PMEng": "None",
+            "PMID": 12
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
@@ -4408,13 +4425,14 @@
         ]
     },
     {
+        "Parlament": 22,
         "Government": 36,
         "Year": 2019,
-        "PM": [
-            "\u05d0\u05d9\u05df",
-            "None",
-            12
-        ],
+        "PM": {
+            "PMHeb": "\u05d0\u05d9\u05df",
+            "PMEng": "None",
+            "PMID": 12
+        },
         "Results": [
             {
                 "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
@@ -4496,6 +4514,90 @@
                 "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
                 "BlockEng": "Left",
                 "BlockID": 5
+            }
+        ]
+    },
+    {
+        "Parlament": 23,
+        "Government": 37,
+        "Year": 2020,
+        "PM": {
+            "PMHeb": "\u05d0\u05d9\u05df",
+            "PMEng": "None",
+            "PMID": 12
+        },
+        "Results": [
+            {
+                "PartyHeb": "\u05d4\u05dc\u05d9\u05db\u05d5\u05d3",
+                "PartyEng": "Halikud",
+                "PartyID": 20,
+                "Mandates": 36,
+                "BlockHeb": "\u05d9\u05de\u05d9\u05df",
+                "BlockEng": "Right",
+                "BlockID": 2
+            },
+            {
+                "PartyHeb": "\u05db\u05d7\u05d5\u05dc \u05dc\u05d1\u05df",
+                "PartyEng": "Kahol Lavan",
+                "PartyID": 68,
+                "Mandates": 33,
+                "BlockHeb": "\u05de\u05e8\u05db\u05d6",
+                "BlockEng": "Centre",
+                "BlockID": 0
+            },
+            {
+                "PartyHeb": "\u05d4\u05e8\u05e9\u05d9\u05de\u05d4 \u05d4\u05de\u05e9\u05d5\u05ea\u05e4\u05ea",
+                "PartyEng": "Hareshima Hameshutefet",
+                "PartyID": 41,
+                "Mandates": 15,
+                "BlockHeb": "\u05e2\u05e8\u05d1\u05d9\u05ea",
+                "BlockEng": "Arabs",
+                "BlockID": 4
+            },
+            {
+                "PartyHeb": "\u05e9\"\u05e1",
+                "PartyEng": "Shas",
+                "PartyID": 106,
+                "Mandates": 9,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d9\u05d4\u05d3\u05d5\u05ea \u05d4\u05ea\u05d5\u05e8\u05d4",
+                "PartyEng": "Yahadut Hatora",
+                "PartyID": 57,
+                "Mandates": 7,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
+            },
+            {
+                "PartyHeb": "\u05d4\u05e2\u05d1\u05d5\u05d3\u05d4-\u05d2\u05e9\u05e8-\u05de\u05e8\u05e6",
+                "PartyEng": "Haavoda \u2013 Gesher \u2013 Merets",
+                "PartyID": 114,
+                "Mandates": 7,
+                "BlockHeb": "\u05e9\u05de\u05d0\u05dc",
+                "BlockEng": "Left",
+                "BlockID": 5
+            },
+            {
+                "PartyHeb": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d1\u05d9\u05ea\u05e0\u05d5",
+                "PartyEng": "Yisrael Beitenu",
+                "PartyID": 64,
+                "Mandates": 7,
+                "BlockHeb": "\u05e1\u05e7\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d9\u05ea",
+                "BlockEng": "Sectorial",
+                "BlockID": 3
+            },
+            {
+                "PartyHeb": "\u05d9\u05de\u05d9\u05e0\u05d4\u2013\u05d4\u05d1\u05d9\u05ea \u05d4\u05d9\u05d4\u05d5\u05d3\u05d9\u2013\u05d4\u05d0\u05d9\u05d7\u05d5\u05d3 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9",
+                "PartyEng": "Yamina \u2013 Bayit yehidi \u2013 Ichud leumi",
+                "PartyID": 115,
+                "Mandates": 7,
+                "BlockHeb": "\u05d3\u05ea\u05d9\u05d9\u05dd",
+                "BlockEng": "Religious",
+                "BlockID": 1
             }
         ]
     }

@@ -4,6 +4,10 @@ from itertools import groupby
 from collections import OrderedDict
 import json    
 
+path = '/home/shimon/workspace/Projects/IsraelElection/israelElections_Parser/'
+inputCSV = 'israelElections.csv'
+outputJson = 'israelElections2020.json'
+
 #there is a matching problem between pandas and json so we need to cutumize teh encoder for generic casting 
 class NpEncoder(json.JSONEncoder):
     def default(self, obj):
@@ -17,7 +21,8 @@ class NpEncoder(json.JSONEncoder):
             return super(NpEncoder, self).default(obj)
 
 # read the raw data file
-df = pd.read_csv('/home/shimon/workspace/misc/CSVParser/israelElections.csv', dtype={
+df = pd.read_csv(path + inputCSV, dtype={
+            "Parlament" : int,
             "Government" : int,
             "Year" : int,
             "PMHeb" : str,
@@ -36,20 +41,21 @@ df = pd.read_csv('/home/shimon/workspace/misc/CSVParser/israelElections.csv', dt
 parsed = []
 
 # parse the pandas
-for (Government, year), rest in df.groupby(["Government", "Year"]):
+for (Parlament, Government, year), rest in df.groupby(["Parlament", "Government", "Year"]):
     for (PMHeb, PMEng, PMID), reminader in rest.groupby(["PMHeb", "PMEng", "PMID"]):
-        PM =[]
-        PM.append(PMHeb)
-        PM.append(PMEng)
-        PM.append(PMID)
-        reduced_df = rest.drop(["Government", "Year", "PMHeb", "PMEng", "PMID"], axis=1)
+        PM = {}
+        PM['PMHeb'] = PMHeb
+        PM['PMEng'] = PMEng
+        PM['PMID'] = PMID
+        reduced_df = rest.drop(["Parlament", "Government", "Year", "PMHeb", "PMEng", "PMID"], axis=1)
         results = [OrderedDict(row) for i,row in reduced_df.iterrows()]
-        parsed.append(OrderedDict([("Government", Government),
+        parsed.append(OrderedDict([("Parlament", Parlament),
+                                    ("Government", Government),
                                     ("Year", year),
                                     ("PM", PM),
                                     ("Results", results)]))
 
 print (json.dumps(parsed[0], indent=4, cls=NpEncoder))
 
-with open('/home/shimon/workspace/misc/CSVParser/israelElections.json', 'w') as outfile:
+with open(path + outputJson, 'w') as outfile:
     outfile.write(json.dumps(parsed, indent=4, cls=NpEncoder))
